@@ -1,0 +1,113 @@
+# Upstream sources PromptCraft synthesises from.
+# Re-checked monthly. When an upstream ships something worth taking, the change is
+# adapted (never copied), added to the library in both languages, and recorded in CHANGELOG.md.
+#
+# წყაროები, რომელთა სინთეზიცაა PromptCraft. მოწმდება ყოველთვიურად.
+
+review_cadence: monthly
+last_reviewed: 2026-09-13
+
+sources:
+  - repo: nidhinjs/prompt-master
+    url: https://github.com/nidhinjs/prompt-master
+    category: skill-architecture
+    took: >
+      The skill shape — tool detection, nine-dimension intent extraction, silent framework
+      routing, token-efficiency audit. The anti-pattern catalogue structure.
+    watch: SKILL.md, references/
+
+  - repo: f/awesome-chatgpt-prompts
+    url: https://github.com/f/awesome-chatgpt-prompts
+    category: library-format
+    took: >
+      Volume and accessibility. A CSV export alongside the markdown so the library is
+      machine-readable. Low-friction contribution model.
+    watch: prompts.csv, PROMPTS.md
+
+  - repo: dair-ai/Prompt-Engineering-Guide
+    url: https://github.com/dair-ai/Prompt-Engineering-Guide
+    category: technique-grounding
+    took: >
+      Which techniques are evidence-backed and which are folklore. Informs what
+      references/frameworks.md ships and what it deliberately excludes.
+    watch: guides/, pages/techniques/
+
+  - repo: x1xhlol/system-prompts-and-models-of-ai-tools
+    url: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+    category: agentic-patterns
+    took: >
+      How production agents are actually instructed — scope declarations, stop conditions,
+      tool contracts, failure behaviour. Shapes library/code/agentic.md.
+    watch: "*/ (new tool folders)"
+
+  - repo: geekjourneyx/awesome-ai-video-prompts
+    url: https://github.com/geekjourneyx/awesome-ai-video-prompts
+    category: video
+    took: >
+      Video prompt structure — shot, movement, lighting, audio — and the per-tool guides
+      for Veo, Sora, Runway, Pika, Kling.
+    watch: docs/guides/, docs/techniques/
+
+  - repo: PatrickJS/awesome-cursorrules
+    url: https://github.com/PatrickJS/awesome-cursorrules
+    category: agentic-patterns
+    took: >
+      Rules-file patterns — what belongs in a standing rules file versus a per-task prompt.
+      Shapes the "Standing rules" block in library/code/agentic.md.
+    watch: rules/
+
+  - repo: ai-boost/awesome-prompts
+    url: https://github.com/ai-boost/awesome-prompts
+    category: library-content
+    took: >
+      What top-rated custom GPTs actually put in their system prompts — the gap between
+      published advice and shipped practice.
+    watch: prompts/
+
+  - repo: anthropics/prompt-eng-interactive-tutorial
+    url: https://github.com/anthropics/prompt-eng-interactive-tutorial
+    category: technique-grounding
+    took: >
+      XML-tag structuring, constraint placement, and the attention-decay reasoning behind
+      front-loading rules.
+    watch: "*/ (chapter updates)"
+
+  - repo: affaan-m/ECC
+    url: https://github.com/affaan-m/ECC
+    category: agent-harness
+    took: >
+      The harness layer itself — that standing facts belong in rules, workflows in skills,
+      deterministic checks in hooks, and scoped roles in agents, rather than being retyped into
+      every prompt. The plan → test → implement → review → verify → remember → improve loop,
+      run as separate prompts so no single context accumulates conflicting perspectives.
+      "Optimise the context window, persist everything else."
+      Shapes references/agent-harness.md, harness/, and library/code/workflow-loop.md.
+    watch: rules/, skills/, hooks/, README.md
+
+  - repo: meigen.ai
+    url: https://www.meigen.ai/
+    category: image-video-models
+    took: >
+      Coverage gaps it exposed: Nano Banana 2, Seedance 2.5, and image-to-prompt as a technique
+      in its own right — going backwards from a picture you have to the prompt that would make
+      one like it. Also character-consistency workflows as a first-class concern rather than a
+      footnote. Shapes library/image/nano-banana.md, library/image/reverse-prompting.md and
+      library/video/seedance.md. The gallery itself is a product, not a repo — we took the
+      technique coverage, not content.
+    watch: model coverage, new prompt categories
+
+  - repo: willwulfken/MidJourney-Styles-and-Keywords-Reference
+    url: https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference
+    category: image
+    took: >
+      Style and keyword vocabulary, and the evidence that descriptor order changes the result.
+    watch: Directory/
+
+# Checked monthly but deliberately not drawn on, and why.
+excluded:
+  - reason: Paywalled or subscription-gated; content cannot be verified or redistributed.
+    examples:
+      - https://genallai.gumroad.com/l/AI
+  - reason: Prompt lists with no licence statement.
+  - reason: Repos whose content is machine-translated into other languages — the exact
+      failure mode this repo exists to avoid.
