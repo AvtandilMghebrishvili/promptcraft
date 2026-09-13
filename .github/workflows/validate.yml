@@ -1,0 +1,32 @@
+name: validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Lint the Georgian side
+        run: python3 scripts/check_georgian.py
+
+      - name: Rebuild the CSV
+        run: python3 scripts/build_csv.py
+
+      - name: Fail if data/prompts.csv is out of date
+        run: |
+          if ! git diff --quiet -- data/prompts.csv; then
+            echo "::error::data/prompts.csv is stale. Run 'python3 scripts/build_csv.py' and commit the result."
+            git diff --stat -- data/prompts.csv
+            exit 1
+          fi
+          echo "data/prompts.csv is current."
