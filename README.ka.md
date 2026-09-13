@@ -49,7 +49,7 @@ PromptCraft ორივეს აგვარებს: სკილი, რო
 
 **Claude / Claude Code**
 ```bash
-git clone https://github.com/REPLACE_ME/promptcraft.git
+git clone https://github.com/AvtandilMghebrishvili/promptcraft.git
 cp -r promptcraft ~/.claude/skills/promptcraft
 ```
 შემდეგ სთხოვე: *„გამოიყენე promptcraft — მჭირდება Midjourney-ის პრომპტი თბილისური ღვინის ბარის ბრენდ-ფოტოსესიისთვის.“*

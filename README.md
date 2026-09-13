@@ -45,7 +45,7 @@ half is adapted, not translated (Problem 2).
 
 **Claude / Claude Code**
 ```bash
-git clone https://github.com/REPLACE_ME/promptcraft.git
+git clone https://github.com/AvtandilMghebrishvili/promptcraft.git
 cp -r promptcraft ~/.claude/skills/promptcraft
 ```
 Then ask: *"Use promptcraft — I need a prompt for Midjourney for a Tbilisi wine bar brand shoot."*
