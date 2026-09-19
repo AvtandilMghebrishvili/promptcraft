@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/diagrams/banner.svg" alt="PromptCraft — ორენოვანი პრომპტ-ინჟინერია" width="100%">
+
 # PromptCraft
 
 **ორენოვანი (ქართული · English) პრომპტ-ინჟინერიის სკილი და ბიბლიოთეკა.**
@@ -41,6 +43,7 @@ PromptCraft ორივეს აგვარებს: სკილი, რო
 | [`library/`](library/) | **240 შერჩეული პრომპტი** — ტექსტი, სურათი, ვიდეო, კოდი, აუდიო, აგენტები. თითოეული ორ ენაზე. |
 | [`references/`](references/) | ფრეიმვორკები, ინსტრუმენტების სინტაქსი, ანტი-პატერნები, ხარისხის ჩეკლისტი, აგენტის ჰარნესის ფენა და ქართული ლოკალიზაციის სტილის გზამკვლევი. |
 | [`harness/`](harness/) | მზა შაბლონები მუდმივი წესებისთვის — `CLAUDE.md` / `AGENTS.md` / `.cursorrules`, ორ ენაზე. ის ხაზები, რომლებიც ყოველ პრომპტში აღარ უნდა გაიმეორო. |
+| [`library/GALLERY.md`](library/GALLERY.md) | ყველა ჩანაწერი, რომელსაც სურათი აქვს — ერთ გვერდზე. |
 | [`data/prompts.csv`](data/prompts.csv) | მთელი ბიბლიოთეკა CSV-ად (`id,category,title_en,title_ka,prompt_en,prompt_ka,tools,tags`). ჩაიტვირთე სადაც გინდა. |
 
 ## სწრაფი დაწყება
@@ -78,6 +81,16 @@ library/
 პრომპტში. დააკოპირე [`harness/rules.ka.md`](harness/rules.ka.md) შენს `CLAUDE.md` / `AGENTS.md` /
 `.cursorrules`-ში და ეს ხაზები პრომპტებიდან წაშალე.
 რატომ და რა სად ეწერება: [`references/agent-harness.md`](references/agent-harness.md).
+
+## როგორ მუშაობს სკილი
+
+<img src="assets/diagrams/pipeline.svg" alt="ინსტრუმენტის ამოცნობა, განზრახვა, ფრეიმვორკი, სინტაქსი, ენა, აუდიტი" width="100%">
+
+## სამუშაო ციკლი
+
+<img src="assets/diagrams/loop.svg" alt="გეგმა, ტესტი, იმპლემენტაცია, რევიუ, ვერიფიკაცია, დამახსოვრება, გაუმჯობესება" width="100%">
+
+პრომპტები თითოეული ეტაპისთვის: [`library/code/workflow-loop.md`](library/code/workflow-loop.md).
 
 ## წესები, რომლებიც პრომპტს ამუშავებს
 

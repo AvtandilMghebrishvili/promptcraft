@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/diagrams/banner.svg" alt="PromptCraft — bilingual prompt engineering" width="100%">
+
 # PromptCraft
 
 **A bilingual (English · ქართული) prompt engineering skill and library.**
@@ -37,6 +39,7 @@ half is adapted, not translated (Problem 2).
 | [`library/`](library/) | **240 curated prompts** across text, image, video, code, audio and agents. Every entry is EN + KA. |
 | [`references/`](references/) | Frameworks, tool-specific syntax routing, anti-patterns, quality checklist, the agent harness layer, and the Georgian localisation style guide. |
 | [`harness/`](harness/) | Drop-in standing-rules templates for `CLAUDE.md` / `AGENTS.md` / `.cursorrules`, EN and KA. The lines you should stop retyping into every prompt. |
+| [`library/GALLERY.md`](library/GALLERY.md) | Every entry that has a sample image, in one contact sheet. |
 | [`data/prompts.csv`](data/prompts.csv) | The whole library as machine-readable CSV (`id,category,title_en,title_ka,prompt_en,prompt_ka,tools,tags`). Import it anywhere. |
 
 ## Quick start
@@ -73,6 +76,16 @@ your commit convention, your "never install packages" rule. Those belong in the 
 every prompt. Copy [`harness/rules.md`](harness/rules.md) into your `CLAUDE.md` / `AGENTS.md` /
 `.cursorrules`, then delete those lines from your prompts.
 Why and what goes where: [`references/agent-harness.md`](references/agent-harness.md).
+
+## How the skill works
+
+<img src="assets/diagrams/pipeline.svg" alt="Detect tool, extract intent, route to a framework, apply syntax, handle language, audit, deliver" width="100%">
+
+## The engineering loop
+
+<img src="assets/diagrams/loop.svg" alt="plan, test, implement, review, verify, remember, improve" width="100%">
+
+Prompts for every stage: [`library/code/workflow-loop.md`](library/code/workflow-loop.md).
 
 ## The rules that make a prompt work
 
