@@ -2793,3 +2793,2160 @@ In all four frames the camera is at eye level, straight on, 85mm equivalent, f/4
 expression neutral and relaxed with the mouth closed. Across the whole set the person must be immediately
 recognisable as the same individual as in the reference photograph, with the same face at the same age.
 ```
+
+---
+
+### NB-31 · Compact digital camera, mid-2000s
+`nano-banana` `gemini` — retro, consumer camera
+
+**EN**
+```
+Make a photograph that looks as though it was taken on a cheap pocket digital camera around 2005,
+at a family dinner in a Tbilisi flat. The subject of this brief is the camera, not the styling —
+reproduce the way that class of machine actually behaved.
+
+Subject: three generations crowded around a laid table. The grandmother is caught mid-sentence with
+one hand lifted; a man in his forties leans in from the left with his elbow on the cloth; a boy sits
+on a stool at the near corner, half cut off by the bottom edge. Nobody is posed. Two of them are
+looking at the lens, one is not, and one blinked.
+
+Composition: 4:3 horizontal — the native shape of that sensor, not a widescreen crop. The camera is
+held at chest height by someone standing at the end of the table, tilted about three degrees to the
+left so the wall line behind runs slightly downhill. The zoom sits at its widest, roughly 35mm
+equivalent, so the near edge of the table bows outward along the bottom of the frame: mild barrel
+distortion, invisible at the centre and strongest in the corners.
+
+Light: the built-in flash is the only real source. It fires straight down the lens axis from about
+two metres, flattens every face, removes all modelling from the noses and cheeks, and falls off
+fast. The nearest wine glass and the grandmother's forehead are burnt to flat white with no detail
+left inside them; the far end of the table sits two stops darker; the corner of the room behind
+goes almost black. The ceiling fixture is switched on but contributes almost nothing, so the shadow
+of each head lands hard, doubled and low on the wall behind.
+
+Sensor character: small-sensor CCD colour. Thin neutrals leaning slightly cyan, reds that slide
+toward orange and clip early, skin that turns waxy where the flash hits hardest, chroma noise
+speckling the dark corners, fine detail smeared into mush, a thin white halo of in-camera
+sharpening along every high-contrast edge, and blocky JPEG compression breaking up the shadows.
+
+Text in the image: a date stamp in the lower right corner, small, orange-yellow, in a seven-segment
+digital face, reading exactly "2005 11 23" and nothing else. Keep it clear of the frame edge by
+about two percent of the frame width.
+
+Interior: a Tbilisi flat — a glass-fronted cabinet against the back wall, a bowl of pomegranates
+and a half-eaten cake on the table, mismatched chairs, a radiator under the window, curtains drawn.
+
+Nothing modern in frame: no smartphone, no flat screen, no logo, no brand name, no wordmark.
+```
+
+**KA**
+```
+გადაიღე ფოტო ისე, თითქოს 2005 წელს, იაფი ჯიბის ციფრული კამერით გადაუღიათ თბილისურ ბინაში, ოჯახურ
+სუფრაზე. ამ ბრიფის მთავარი საგანი კამერაა და არა სტილიზაცია — ზუსტად გაიმეორე, როგორ იქცეოდა ამ
+კლასის ტექნიკა.
+
+ობიექტი: სამი თაობა გაშლილ მაგიდას შემოსხდომია. ბებია სიტყვის შუაშია გაჩერებული, ერთი ხელი აწეული
+აქვს; ორმოცდაათამდე კაცი მარცხნიდან იდაყვით სუფრაზე გადმოხრილია; ბიჭი ახლო კუთხეში სკამზე ზის და
+კადრის ქვედა კიდე მას ნახევრად კვეთს. არავინ პოზირებს: ორი ადამიანი ობიექტივში იყურება, ერთი — არა,
+ერთმა კი დაახამხამა.
+
+კომპოზიცია: ჰორიზონტალური კადრი 4:3 — ამ მატრიცის საკუთარი პროპორცია და არა განიერეკრანიანი კროპი.
+კამერა მაგიდის ბოლოში მდგომ ადამიანს მკერდის სიმაღლეზე უჭირავს, სამი გრადუსით მარცხნივ გადახრით,
+ისე რომ უკანა კედლის ხაზი ოდნავ ქვევით მიდის. ზუმი ყველაზე განიერ მდგომარეობაშია, დაახლოებით 35 მმ
+ექვივალენტი — კადრის ქვედა კიდესთან მაგიდის ნაპირი გარეთ იბერება: სუსტი კასრისებრი დამახინჯება,
+ცენტრში შეუმჩნეველი და კუთხეებში ყველაზე ძლიერი.
+
+განათება: ერთადერთი რეალური წყარო ჩაშენებული ფლეშია. ის ობიექტივის ღერძიდან, ორი მეტრიდან
+პირდაპირ ესროლა სუფრას: ყველა სახეს აბრტყელებს, ცხვირსა და ლოყას მოცულობას აცლის და სწრაფად ეცემა.
+უახლოესი ჭიქა და ბებიის შუბლი სუფთა თეთრამდეა გადანათებული — იქ დეტალი აღარ არსებობს; მაგიდის
+შორეული ბოლო ორი საფეხურით მუქია; უკანა კუთხე თითქმის შავია. ჭერის ნათურა ანთია, მაგრამ თითქმის
+არაფერს მატებს, ამიტომ თითოეული თავის ჩრდილი კედელზე მკვეთრი, გაორებული და დაბლა დაცემულია.
+
+მატრიცის ხასიათი: პატარა CCD მატრიცის ფერი — თხელი, ციანისკენ გადახრილი ნეიტრალები; წითელი
+ნარინჯისფერში ცურავს და ადრე იჭრება; კანი იქ, სადაც ფლეში ყველაზე ძლიერ ეცემა, ცვილისებრი ხდება;
+მუქ კუთხეებში ფერადი ხმაური აშკარად ჩანს; წვრილი დეტალი აბურდულია; ყოველ კონტრასტულ კიდეზე კამერის
+შიდა გამკვეთრების თხელი თეთრი კონტურია; JPEG-შეკუმშვა ჩრდილებს კვადრატებად შლის.
+
+წარწერა სურათში: ქვედა მარჯვენა კუთხეში თარიღის შტამპი — პატარა, ნარინჯისფერ-ყვითელი, სეგმენტური
+ციფრული შრიფტით, ზუსტად ასე: „2005 11 23“ და სხვა არაფერი. კადრის კიდიდან დაშორება კადრის სიგანის
+დაახლოებით ორი პროცენტი.
+
+ინტერიერი: თბილისური ბინა — შუშისკარიანი სერვანტი უკანა კედელთან, მაგიდაზე ბროწეულის ლანგარი და
+ნახევრად შეჭმული ტორტი, სხვადასხვა სკამი, ფანჯრის ქვეშ რადიატორი, ფარდები ჩამოშვებული.
+
+კადრში თანამედროვე არაფერი: არც სმარტფონი, არც ბრტყელი ეკრანი, არც ლოგო, არც ბრენდის სახელი.
+---
+Make a photograph that looks as though it was taken on a cheap pocket digital camera around 2005, at a
+family dinner in a Tbilisi flat. The subject of this brief is the camera, not the styling — reproduce the
+way that class of machine actually behaved.
+Subject: three generations crowded around a laid table. The grandmother is caught mid-sentence with one
+hand lifted; a man in his forties leans in from the left with his elbow on the cloth; a boy sits on a
+stool at the near corner, half cut off by the bottom edge. Nobody is posed; two are looking at the lens,
+one is not, and one blinked.
+Composition: 4:3 horizontal, the native shape of that sensor. The camera is held at chest height by
+someone standing at the end of the table, tilted about three degrees to the left. The zoom sits at its
+widest, roughly 35mm equivalent, so the near edge of the table bows outward along the bottom of the
+frame: mild barrel distortion, invisible at the centre and strongest in the corners.
+Light: the built-in flash is the only real source. It fires straight down the lens axis from about two
+metres, flattens every face, removes all modelling from noses and cheeks, and falls off fast. The nearest
+wine glass and the grandmother's forehead are burnt to flat white with no detail left inside them; the far
+end of the table sits two stops darker; the corner of the room behind goes almost black. The ceiling
+fixture is on but contributes almost nothing, so the shadow of each head lands hard, doubled and low on
+the wall behind.
+Sensor character: small-sensor CCD colour — thin neutrals leaning slightly cyan, reds that slide toward
+orange and clip early, skin that turns waxy where the flash hits hardest, chroma noise in the dark
+corners, fine detail smeared into mush, a thin white halo of in-camera sharpening along every
+high-contrast edge, and blocky JPEG compression breaking up the shadows.
+Text in the image: a date stamp in the lower right corner, small, orange-yellow, in a seven-segment
+digital face, reading exactly "2005 11 23" and nothing else, clear of the frame edge by about two percent
+of the frame width.
+Interior: a Tbilisi flat — a glass-fronted cabinet against the back wall, a bowl of pomegranates and a
+half-eaten cake on the table, mismatched chairs, a radiator under the window, curtains drawn.
+Nothing modern in frame: no smartphone, no flat screen, no logo, no brand name, no wordmark.
+```
+
+---
+
+### NB-32 · Disposable film camera at night
+`nano-banana` `gemini` — retro, flash
+
+**EN**
+```
+Photograph four friends on the steps of a block courtyard in Tbilisi at night, as a single-use film
+camera would record them. Everything in this brief describes the camera's limitations; honour them
+rather than improving on them.
+
+Composition: 3:2 horizontal, snapshot framing — the camera is held at the photographer's chest,
+about a metre and a half from the nearest person, tilted five degrees, the horizon not level and
+the top edge cutting arbitrarily through the doorway arch behind them. One person is slightly out
+of frame at the right. Fixed lens, roughly 30mm equivalent, everything from a metre to infinity
+nominally in focus and nothing actually crisp.
+
+Light: one tiny flash tube, on the lens axis, with no power to spare. The nearest face is about a
+stop and a half over-lit with the shine on the forehead gone to blank white; the person half a
+metre further back is correctly exposed; anything past three metres receives nothing at all and
+sinks into a muddy green-black. The lit stairwell doorway behind them registers only as a dull
+yellow rectangle. Shadows from the flash fall directly behind each person, hard-edged, stacked one
+on the next against the wall.
+
+Film and lens character: fast consumer colour negative, developed carelessly. Coarse, clearly
+visible grain across the whole frame, heaviest in the dark areas. A green-cyan cast through the
+shadows and the mid-tones; whites that never come back to neutral. Heavy mechanical vignetting
+from the cheap plastic lens — the corners are a stop and a half down and visibly softer than the
+centre. Faint magenta-green colour fringing along the brightest edges.
+
+Motion: the ambient exposure continues after the flash has fired, so a figure walking behind the
+group renders as a soft translucent ghost trailing to the right, with the wall visible through it,
+while the four flash-lit faces stay frozen and sharp. The same continuation leaves a short warm
+streak where a car passed in the far background.
+
+Damp asphalt in the foreground picks up a few specular points from the flash. No legible signage,
+no logo, no brand name anywhere in frame.
+```
+
+**KA**
+```
+გადაიღე ოთხი მეგობარი თბილისური ეზოს კიბეზე, ღამით — ისე, როგორც ერთჯერადი ფოტოაპარატი ჩაწერდა.
+ამ ბრიფში ყველაფერი კამერის შეზღუდვებს აღწერს; შეასრულე ისინი და არ გააუმჯობესო.
+
+კომპოზიცია: ჰორიზონტალური კადრი 3:2, შემთხვევითი კადრირებით — კამერა ფოტოგრაფს მკერდთან უჭირავს,
+უახლოეს ადამიანამდე დაახლოებით მეტრნახევარია, კადრი ხუთი გრადუსითაა გადახრილი, ჰორიზონტი სწორი არ
+არის და ზედა კიდე უკან მდებარე თაღოვან კარს თვითნებურად კვეთს. ერთი ადამიანი მარჯვნივ კადრიდან
+ნაწილობრივ გასულია. ობიექტივი ფიქსირებული, დაახლოებით 30 მმ ექვივალენტი: ერთი მეტრიდან უსასრულობამდე
+ფორმალურად ყველაფერი მკვეთრია და სინამდვილეში არაფერია მკვეთრი.
+
+განათება: ერთი პატარა ფლეში ობიექტივის ღერძზე, მარაგის გარეშე. უახლოესი სახე საფეხურნახევრით
+გადანათებულია — შუბლზე ბზინვა სუფთა თეთრად გადავიდა; ნახევარი მეტრით უკან მდგომი ადამიანი სწორადაა
+ექსპონირებული; სამ მეტრზე იქით ფლეში ვეღარაფერს აღწევს და იქაურობა მღვრიე მწვანე-შავში იძირება.
+უკან განათებული სადარბაზოს კარი მხოლოდ მკრთალ ყვითელ მართკუთხედად აღიბეჭდება. ფლეშის ჩრდილები
+პირდაპირ თითოეული ადამიანის უკან ეცემა — მკვეთრი კიდეებით, კედელზე ერთმანეთზე დაწყობილი.
+
+ფირისა და ობიექტივის ხასიათი: მაღალმგრძნობიარე სამოყვარულო ფერადი ნეგატივი, უყურადღებოდ გამჟღავნებული.
+მსხვილი, აშკარად ხილული მარცვლოვნება მთელ კადრში, ყველაზე ძლიერი მუქ უბნებში. მწვანე-ციანისკენ
+გადახრილი ჩრდილები და შუატონები; თეთრი ნეიტრალურობას ვეღარ უბრუნდება. იაფი პლასტმასის ობიექტივის
+ძლიერი ვინიეტი — კუთხეები საფეხურნახევრით მუქია და ცენტრზე შესამჩნევად რბილი. ყველაზე კაშკაშა
+კიდეებზე სუსტი მაჯენტა-მწვანე ფერადი კონტური.
+
+მოძრაობა: ფლეშის გასროლის შემდეგ გარემოს ექსპოზიცია გრძელდება, ამიტომ ჯგუფის უკან მოსიარულე ფიგურა
+რბილ, გამჭვირვალე აჩრდილად იშლება მარჯვნივ — კედელი მასში გამოსჭვივის — მაშინ როცა ფლეშით
+განათებული ოთხი სახე გაყინული და მკვეთრი რჩება. იმავე მიზეზით, შორეულ ფონზე გავლილ მანქანას მოკლე
+თბილი ზოლი დარჩა.
+
+წინა პლანზე სველი ასფალტი ფლეშის რამდენიმე ბრჭყვიალა წერტილს იჭერს. კადრში არც წაკითხვადი წარწერა,
+არც ლოგო, არც ბრენდის სახელი.
+---
+Photograph four friends on the steps of a block courtyard in Tbilisi at night, as a single-use film camera
+would record them. Everything in this brief describes the camera's limitations; honour them rather than
+improving on them.
+Composition: 3:2 horizontal, snapshot framing — the camera is held at the photographer's chest, about a
+metre and a half from the nearest person, tilted five degrees, the horizon not level and the top edge
+cutting arbitrarily through the doorway arch behind them. One person is slightly out of frame at the
+right. Fixed lens, roughly 30mm equivalent, everything from a metre to infinity nominally in focus and
+nothing actually crisp.
+Light: one tiny flash tube on the lens axis with no power to spare. The nearest face is about a stop and
+a half over-lit with the shine on the forehead gone to blank white; the person half a metre further back
+is correctly exposed; anything past three metres receives nothing and sinks into a muddy green-black. The
+lit stairwell doorway behind registers only as a dull yellow rectangle. Flash shadows fall directly behind
+each person, hard-edged, stacked one on the next against the wall.
+Film and lens character: fast consumer colour negative, carelessly developed. Coarse visible grain across
+the whole frame, heaviest in the dark areas. A green-cyan cast through the shadows and mid-tones; whites
+that never return to neutral. Heavy mechanical vignetting from the cheap plastic lens — corners a stop and
+a half down and visibly softer than the centre. Faint magenta-green fringing along the brightest edges.
+Motion: the ambient exposure continues after the flash has fired, so a figure walking behind the group
+renders as a soft translucent ghost trailing to the right with the wall visible through it, while the four
+flash-lit faces stay frozen and sharp; the same continuation leaves a short warm streak where a car passed
+in the far background.
+Damp asphalt in the foreground picks up a few specular points from the flash. No legible signage, no logo,
+no brand name anywhere in frame.
+```
+
+---
+
+### NB-33 · 35mm colour negative in daylight
+`nano-banana` `gemini` — film, daylight
+
+**EN**
+```
+Photograph a woman hanging washing on a balcony at noon, and render it the way colour negative film
+renders daylight. Describe nothing by brand — describe the behaviour.
+
+Subject: a woman in her thirties, a dark green cotton dress, bare arms, hair tied back, reaching up
+with a wooden peg in her mouth and both hands on a white sheet that is lifting slightly in the
+breeze. Two sheets are already up; one has blown across itself.
+
+Composition: 3:2 horizontal, camera at the photographer's eye level about three metres away and
+slightly to the left, 50mm equivalent, f/5.6. She stands on the right third, facing left; the line
+of washing crosses the top half of the frame; a shaded plastered wall fills the left of the picture
+with an open doorway into the dark interior of the flat.
+
+Light: high sun through thin cloud, from camera right and above. The sheets are the brightest thing
+in the frame by a wide margin; the shaded wall is four stops below them.
+
+Film behaviour, which is the point of this image:
+- Highlight roll-off is long and gradual. The white sheets keep texture and weave all the way up
+  into the brightest part of the picture instead of clipping to a flat white; the transition from
+  lit cloth to shadowed fold is smooth with no hard edge where the tone gives out.
+- Mid-tones run warm. Skin sits slightly toward yellow-red, the plaster reads cream rather than
+  grey, and the green dress is a little muted and dusty rather than saturated.
+- Shadows hold colour but lose separation, and they are where the grain lives: clearly visible
+  grain in the doorway and under the balcony rail, almost none in the bright cloth.
+- Gentle halation: where the brilliant sheet edge meets the dark doorway behind it, a soft warm
+  glow bleeds a few pixels into the dark side, rounding the edge. It appears only against the
+  brightest edges and never around mid-tones.
+- Overall contrast is moderate, the blacks are not truly black but a dense warm grey, and a
+  faint bloom sits over the whole frame.
+
+Natural, unposed, no retouching of skin, no digital sharpening, no clipped whites anywhere.
+```
+
+**KA**
+```
+გადაიღე ქალი, რომელიც შუადღისას აივანზე თეთრეულს ფენს, და გამოსახულება ისე ააგე, როგორც ფერადი
+ნეგატივი დღის შუქს ხედავს. ბრენდი არსად დაასახელო — დაასახელე ქცევა.
+
+ობიექტი: ოცდაათს გადაცილებული ქალი, მუქი მწვანე ბამბის კაბით, შიშველი მკლავებით, უკან შეკრული
+თმით; ხელები ზემოთ აქვს აწეული, პირში ხის სამაგრი უჭირავს, ორივე ხელით თეთრ ზეწარს იჭერს, რომელსაც
+ნიავი ოდნავ წევს. ორი ზეწარი უკვე გაფენილია; ერთი თავის თავზე გადაკეცილა.
+
+კომპოზიცია: ჰორიზონტალური კადრი 3:2, კამერა ფოტოგრაფის თვალის დონეზე, სამი მეტრის მოშორებით და
+ოდნავ მარცხნივ, 50 მმ ექვივალენტი, დიაფრაგმა f/5.6. ქალი მარჯვენა მესამედში დგას, მარცხნივ
+მიბრუნებული; თოკი თეთრეულით კადრის ზედა ნახევარს კვეთს; მარცხენა ნაწილს ბათქაშიანი, ჩრდილში მყოფი
+კედელი ავსებს, რომელშიც ღია კარი ბინის ბნელ სიღრმეში გადის.
+
+განათება: მაღალი მზე თხელ ღრუბელში, კამერიდან მარჯვნივ და ზემოდან. ზეწრები კადრის ყველაზე კაშკაშა
+ნაწილია დიდი სხვაობით; ჩრდილში მყოფი კედელი მათზე ოთხი საფეხურით დაბლაა.
+
+ფირის ქცევა — სწორედ ეს არის ამ კადრის აზრი:
+- ნათელი უბნების გადასვლა გრძელი და თანდათანობითია. თეთრი ზეწრები ქსოვილის ფაქტურას ყველაზე
+  კაშკაშა ადგილშიც ინარჩუნებენ და ბრტყელ თეთრში არ იჭრებიან; განათებული ქსოვილიდან ჩრდილიან
+  ნაკეცამდე გადასვლა რბილია, მკვეთრი საზღვრის გარეშე.
+- შუატონები თბილია. კანი ყვითელ-წითელისკენაა გადახრილი, ბათქაში ნაცრისფერზე მეტად კრემისფრად
+  იკითხება, მწვანე კაბა კი ნაჯერზე მეტად ოდნავ მიბინდულია, მტვრიანი.
+- ჩრდილები ფერს ინარჩუნებენ, მაგრამ დეტალს კარგავენ — და სწორედ იქ ცხოვრობს მარცვლოვნება: კარის
+  ღიობსა და აივნის მოაჯირის ქვეშ აშკარად ხილული მარცვალი, ნათელ ქსოვილში კი თითქმის არცერთი.
+- რბილი ჰალაცია: იქ, სადაც ზეწრის კაშკაშა კიდე უკან მდებარე ბნელ ღიობს ხვდება, თბილი ნათება რამდენიმე
+  პიქსელით შედის მუქ მხარეს და კიდეს ამრგვალებს. ეს მხოლოდ ყველაზე კაშკაშა კიდეებზე ჩნდება და
+  შუატონების გარშემო არასდროს.
+- საერთო კონტრასტი ზომიერია, შავი ნამდვილი შავი არ არის — მკვრივი თბილი ნაცრისფერია — და მთელ კადრს
+  სუსტი ნათების ფარდა ადევს.
+
+ბუნებრივი, არაპოზირებული კადრი: კანის რეტუშის, ციფრული გამკვეთრებისა და გადანათებული თეთრის გარეშე.
+---
+Photograph a woman hanging washing on a balcony at noon, and render it the way colour negative film
+renders daylight. Describe nothing by brand — describe the behaviour.
+Subject: a woman in her thirties, a dark green cotton dress, bare arms, hair tied back, reaching up with
+a wooden peg in her mouth and both hands on a white sheet lifting slightly in the breeze. Two sheets are
+already up; one has blown across itself.
+Composition: 3:2 horizontal, camera at eye level about three metres away and slightly to the left, 50mm
+equivalent, f/5.6. She stands on the right third facing left; the line of washing crosses the top half of
+the frame; a shaded plastered wall fills the left of the picture with an open doorway into the dark
+interior of the flat.
+Light: high sun through thin cloud, from camera right and above. The sheets are the brightest thing in
+the frame by a wide margin; the shaded wall is four stops below them.
+Film behaviour, which is the point of this image: highlight roll-off is long and gradual — the white
+sheets keep texture and weave all the way up into the brightest part of the picture instead of clipping
+to flat white, and the transition from lit cloth to shadowed fold is smooth with no hard edge. Mid-tones
+run warm: skin sits slightly toward yellow-red, the plaster reads cream rather than grey, the green dress
+is muted and dusty rather than saturated. Shadows hold colour but lose separation, and they are where the
+grain lives — clearly visible grain in the doorway and under the balcony rail, almost none in the bright
+cloth. Gentle halation: where the brilliant sheet edge meets the dark doorway behind it, a soft warm glow
+bleeds a few pixels into the dark side and rounds the edge; it appears only against the brightest edges
+and never around mid-tones. Overall contrast is moderate, the blacks are a dense warm grey rather than
+true black, and a faint bloom sits over the whole frame.
+Natural, unposed, no retouching of skin, no digital sharpening, no clipped whites anywhere.
+```
+
+---
+
+### NB-34 · Fisheye, close and wide
+`nano-banana` `gemini` — lens, distortion
+
+**EN**
+```
+Photograph a hand holding a green apple out toward the camera on a flat city rooftop, with a
+full-frame fisheye lens. The distortion rules below are what make this read as a real fisheye
+rather than a warped photograph — apply all of them together.
+
+Subject and distance: an outstretched right hand, palm up, a small green apple resting on it, the
+apple about fifteen centimetres from the front element. Behind the hand, a young man in a grey
+t-shirt leans back at arm's length, laughing, his face about seventy centimetres away. Beyond them,
+the rooftop: a tar-paper surface, a low parapet, satellite dishes, laundry lines, a city of
+mid-rise blocks and, on the horizon, hills.
+
+Composition: 1:1 square, full-frame fisheye — the image fills the whole square, the corners are
+filled with picture and there is no black circle and no dark ring. The camera is held low, at
+about waist height, tilted slightly upward, roughly thirty centimetres from the hand.
+
+Distortion rules:
+- Straight lines that pass exactly through the centre of the frame stay straight. Every other
+  straight line bows outward, and the further it sits from the centre the more it bows.
+- The parapet and the roof line therefore curve strongly; verticals near the left and right edges
+  lean inward toward the top of the frame.
+- The horizon is a curve: it bows upward because the camera is tilted up, and it would flatten
+  only if it ran exactly through the centre of the frame.
+- Scale falls away extremely fast with distance. The apple is enormous — it occupies a fifth of
+  the frame — the man's head is a fraction of it, and the buildings behind are small.
+- Objects near the frame edge are compressed into narrow slivers, stretched along the edge and
+  squeezed across it, while objects near the centre are enlarged and comparatively undistorted.
+- The environment wraps all the way round to the edges: the parapet appears on the left, behind
+  and on the right, and the photographer's own shoes and shadow enter at the bottom edge.
+- Depth of field is enormous: the apple at fifteen centimetres and the hills at the horizon are
+  both acceptably sharp. Only the extreme corners soften slightly.
+- Light: open sky overhead as the main source, late afternoon sun from camera right putting a
+  hard edge on the top of the apple and a long shadow across the roof to the left.
+
+Bright natural colour, moderate contrast, no vignette beyond a slight corner falloff.
+```
+
+**KA**
+```
+გადაიღე ხელი, რომელიც კამერისკენ მწვანე ვაშლს იწვდის, ქალაქის ბრტყელ სახურავზე, სრულკადრიანი
+ფიშაი-ობიექტივით. ქვემოთ მოცემული დამახინჯების წესები სწორედ ის არის, რაც კადრს ნამდვილ ფიშაიდ
+აქცევს და არა უბრალოდ გადაგრეხილ ფოტოდ — გამოიყენე ისინი ერთად.
+
+ობიექტი და მანძილი: წინ გაწვდილი მარჯვენა ხელი, გულაღმა, ზედ პატარა მწვანე ვაშლი; ვაშლი ობიექტივის
+წინა ლინზიდან დაახლოებით თხუთმეტ სანტიმეტრშია. ხელის უკან ნაცრისფერმაისკიანი ახალგაზრდა კაცი
+მკლავის სიგრძეზე უკან გადახრილა და იცინის — მისი სახე სამოცდაათ სანტიმეტრზეა. მათ მიღმა სახურავია:
+რუბეროიდი, დაბალი პარაპეტი, თეფშისებრი ანტენები, სარეცხის თოკები, საშუალო სართულიანობის ქალაქი და
+ჰორიზონტზე მთები.
+
+კომპოზიცია: კვადრატული კადრი 1:1, სრულკადრიანი ფიშაი — გამოსახულება მთელ კვადრატს ავსებს, კუთხეებში
+სურათია და არც შავი წრეა, არც მუქი რგოლი. კამერა დაბლაა, წელის სიმაღლეზე, ოდნავ ზემოთ მიმართული,
+ხელიდან ოცდაათ სანტიმეტრში.
+
+დამახინჯების წესები:
+- სწორი ხაზი, რომელიც ზუსტად კადრის ცენტრზე გადის, სწორად რჩება. ყველა სხვა სწორი ხაზი გარეთ იღუნება
+  და რაც უფრო შორსაა ცენტრიდან, მით უფრო ძლიერად.
+- ამიტომ პარაპეტი და სახურავის ხაზი ძლიერ იმრუდება; მარცხენა და მარჯვენა კიდესთან ვერტიკალები
+  ზემოთკენ შიგნით იხრება.
+- ჰორიზონტი მრუდია: ზემოთ იბერება, რადგან კამერა ზემოთაა გადახრილი, და მხოლოდ მაშინ გასწორდებოდა,
+  ზუსტად ცენტრზე რომ გადიოდეს.
+- მასშტაბი მანძილთან ერთად ძალიან სწრაფად ეცემა. ვაშლი უზარმაზარია — კადრის მეხუთედს იკავებს — კაცის
+  თავი მის ნაწილია, უკანა შენობები კი პატარა.
+- კადრის კიდესთან მყოფი საგნები ვიწრო ნაფლეთებად იკუმშება — კიდის გასწვრივ იჭიმება და განივად ზნექავს —
+  ცენტრთან მყოფი კი გადიდებული და შედარებით დაუმახინჯებელია.
+- გარემო კიდეებამდე ეხვევა: პარაპეტი მარცხნივაც ჩანს, უკანაც და მარჯვნივაც, ქვედა კიდიდან კი
+  ფოტოგრაფის საკუთარი ფეხსაცმელი და ჩრდილი შემოდის.
+- სიღრმის ველი უზარმაზარია: თხუთმეტ სანტიმეტრზე მყოფი ვაშლიც და ჰორიზონტზე მდგარი მთებიც საკმარისად
+  მკვეთრია. მხოლოდ უკიდურესი კუთხეები რბილდება ოდნავ.
+- განათება: მთავარი წყარო ღია ცაა თავზე; შუადღის შემდგომი მზე კამერიდან მარჯვნივ ვაშლის თავზე მკვეთრ
+  კიდეს დებს და სახურავზე გრძელ ჩრდილს მარცხნივ აგდებს.
+
+ნათელი ბუნებრივი ფერი, ზომიერი კონტრასტი, ვინიეტის გარეშე — მხოლოდ კუთხეებში სუსტი დაბნელებით.
+---
+Photograph a hand holding a green apple out toward the camera on a flat city rooftop, with a full-frame
+fisheye lens. The distortion rules below are what make this read as a real fisheye rather than a warped
+photograph — apply all of them together.
+Subject and distance: an outstretched right hand, palm up, a small green apple resting on it, the apple
+about fifteen centimetres from the front element. Behind the hand, a young man in a grey t-shirt leans
+back at arm's length, laughing, his face about seventy centimetres away. Beyond them the rooftop: tar
+paper, a low parapet, satellite dishes, laundry lines, a city of mid-rise blocks, and hills on the horizon.
+Composition: 1:1 square, full-frame fisheye — the image fills the whole square, the corners are filled
+with picture, and there is no black circle and no dark ring. The camera is held low at about waist height,
+tilted slightly upward, roughly thirty centimetres from the hand.
+Distortion rules: straight lines that pass exactly through the centre of the frame stay straight, and
+every other straight line bows outward, more the further it sits from the centre. The parapet and roof
+line therefore curve strongly; verticals near the left and right edges lean inward toward the top. The
+horizon is a curve, bowing upward because the camera is tilted up, and would flatten only if it ran
+exactly through the centre. Scale falls away extremely fast with distance: the apple is enormous and
+occupies a fifth of the frame, the man's head is a fraction of it, the buildings behind are small. Objects
+near the frame edge are compressed into narrow slivers, stretched along the edge and squeezed across it,
+while objects near the centre are enlarged and comparatively undistorted. The environment wraps all the
+way round: the parapet appears left, behind and right, and the photographer's own shoes and shadow enter
+at the bottom edge. Depth of field is enormous — the apple at fifteen centimetres and the hills at the
+horizon are both acceptably sharp, with only the extreme corners softening.
+Light: open sky overhead as the main source, late afternoon sun from camera right putting a hard edge on
+the top of the apple and a long shadow across the roof to the left.
+Bright natural colour, moderate contrast, no vignette beyond a slight corner falloff.
+```
+
+---
+
+### NB-35 · The photograph on the camera screen
+`nano-banana` `gemini` — frame within frame, screen
+
+**EN**
+```
+Photograph a small camera's rear screen being held up in one hand, with a picture on it. The
+finished image is a photograph of a screen — the frame within the frame is the whole idea, so the
+inner picture must obey the screen and not the room.
+
+Outer frame: 4:5 vertical. The camera is a plain black compact body with no lettering, no logo and
+no wordmark anywhere on it, held in a woman's right hand at chest height — a thin silver ring on
+the index finger, short unpolished nails, the thumb resting on the bottom edge of the body. Our
+camera is at eye level, about sixty centimetres away, 50mm equivalent, f/4, focused precisely on
+the screen surface so that the hand and everything behind it fall soft.
+
+The screen occupies roughly half the frame and is not parallel to our sensor: it is tilted back so
+the top edge sits a little further away and the rectangle reads as a slight trapezoid, and turned a
+few degrees to the left. Its bezel is a deep matte black, deeper than anything in the picture on it.
+
+The picture on the screen: a wide view of a wooden pier running out into flat grey water at dusk,
+a single figure at the far end, a low band of cloud. It is coarser than a real photograph would be —
+a faint pixel grid is visible if you look closely, the contrast is pushed and the colours are more
+saturated than the scene itself, and the whole inner image glows slightly because it is backlit.
+
+Reflections on the glass: a soft reflection of the overcast sky and the faint silhouette of the
+photographer's shoulder lie across the upper left third of the screen and lift the blacks there, so
+that part of the inner picture loses contrast. Near the lower right corner, finger smudges catch
+the light in a dull smear.
+
+Interface overlay, sitting on the screen surface and not floating in space, in thin white type,
+small and slightly aliased:
+- along the top, a playback bar with a small solid triangle at the left and, at the right,
+  "128/364"
+- along the bottom, a strip of shooting data reading "1/60  f/2.8  ISO 800"
+- a small battery pictogram in the top right corner, two thirds filled
+- a thin white rectangle in the centre left of the screen marking the focus point
+
+Behind the hand, thrown well out of focus: a wet car park under flat overcast light, one distant
+parked car, no readable text anywhere.
+```
+
+**KA**
+```
+გადაიღე პატარა კამერის უკანა ეკრანი, რომელიც ერთ ხელში უჭირავთ და რომელზეც სურათია. საბოლოო
+გამოსახულება ეკრანის ფოტოა — კადრი კადრში მთელი აზრია, ამიტომ შიდა სურათი ეკრანს უნდა დაემორჩილოს
+და არა ოთახს.
+
+გარე კადრი: ვერტიკალური 4:5. კამერა უბრალო შავი კომპაქტური კორპუსია, ზედ არც ერთი ასო, ლოგო ან
+ბრენდის ნიშანი; ქალს მარჯვენა ხელში, მკერდის სიმაღლეზე უჭირავს — საჩვენებელ თითზე თხელი ვერცხლის
+ბეჭედი, მოკლე, უმანიკურო ფრჩხილები, ცერა თითი კორპუსის ქვედა კიდეზე. ჩვენი კამერა თვალის დონეზეა,
+სამოცი სანტიმეტრის მოშორებით, 50 მმ ექვივალენტი, დიაფრაგმა f/4, ფოკუსი ზუსტად ეკრანის ზედაპირზე —
+ხელი და ყველაფერი მის უკან რბილად იბუნდოვნება.
+
+ეკრანი კადრის დაახლოებით ნახევარს იკავებს და ჩვენი მატრიცის პარალელური არ არის: უკან არის გადახრილი,
+ამიტომ ზედა კიდე ოდნავ შორსაა და მართკუთხედი მსუბუქ ტრაპეციად იკითხება; გარდა ამისა, რამდენიმე
+გრადუსით მარცხნივაა შემობრუნებული. ჩარჩო ღრმა მქრქალი შავია — იმაზე მუქი, ვიდრე მასზე გამოსახულ
+სურათში რამე.
+
+სურათი ეკრანზე: განიერი ხედი — ხის ბოგირი ბინდში, ბრტყელ ნაცრისფერ წყალში გასული, ბოლოში ერთი
+ფიგურა, დაბალი ღრუბლის ზოლი. ის ნამდვილ ფოტოზე უხეშია: ახლოს დაკვირვებისას პიქსელების ბადე ჩანს,
+კონტრასტი აწეულია, ფერები თავად სცენაზე უფრო ნაჯერია და მთელი შიდა გამოსახულება ოდნავ ნათობს,
+რადგან უკნიდან არის განათებული.
+
+არეკვლა შუშაზე: მოღრუბლული ცისა და ფოტოგრაფის მხრის ბუნდოვანი სილუეტის რბილი არეკვლა ეკრანის ზედა
+მარცხენა მესამედზე დევს და იქაურ შავს წევს — შიდა სურათის ეს ნაწილი კონტრასტს კარგავს. ქვედა
+მარჯვენა კუთხესთან თითების ნაკვალევი შუქს მქრქალ ლაქად იჭერს.
+
+ინტერფეისი, რომელიც ეკრანის ზედაპირზე ზის და არა ჰაერში — თხელი თეთრი შრიფტი, წვრილი და ოდნავ
+დაკბილული:
+- ზემოთ დათვალიერების ზოლი: მარცხნივ პატარა სავსე სამკუთხედი, მარჯვნივ „128/364“
+- ქვემოთ გადაღების პარამეტრების ზოლი: „1/60  f/2.8  ISO 800“
+- ზედა მარჯვენა კუთხეში პატარა ბატარეის პიქტოგრამა, ორ მესამედამდე შევსებული
+- ეკრანის მარცხენა შუაში თხელი თეთრი მართკუთხედი — ფოკუსის წერტილი
+
+ხელის უკან, ღრმად დაბუნდოვნებული: სველი ავტოსადგომი ბრტყელ, მოღრუბლულ შუქზე, შორს ერთი გაჩერებული
+მანქანა, არსად წაკითხვადი ტექსტი.
+---
+Photograph a small camera's rear screen being held up in one hand, with a picture on it. The finished
+image is a photograph of a screen — the frame within the frame is the whole idea, so the inner picture
+must obey the screen and not the room.
+Outer frame: 4:5 vertical. The camera is a plain black compact body with no lettering, no logo and no
+wordmark anywhere on it, held in a woman's right hand at chest height — a thin silver ring on the index
+finger, short unpolished nails, the thumb resting on the bottom edge of the body. Our camera is at eye
+level, about sixty centimetres away, 50mm equivalent, f/4, focused precisely on the screen surface so the
+hand and everything behind it fall soft.
+The screen occupies roughly half the frame and is not parallel to our sensor: it is tilted back so the top
+edge sits a little further away and the rectangle reads as a slight trapezoid, and turned a few degrees to
+the left. Its bezel is a deep matte black, deeper than anything in the picture on it.
+The picture on the screen: a wide view of a wooden pier running out into flat grey water at dusk, a single
+figure at the far end, a low band of cloud. It is coarser than a real photograph would be — a faint pixel
+grid is visible up close, the contrast is pushed, the colours are more saturated than the scene itself,
+and the whole inner image glows slightly because it is backlit.
+Reflections on the glass: a soft reflection of the overcast sky and the faint silhouette of the
+photographer's shoulder lie across the upper left third of the screen and lift the blacks there, so that
+part of the inner picture loses contrast; near the lower right corner, finger smudges catch the light in a
+dull smear.
+Interface overlay, sitting on the screen surface and not floating in space, in thin white type, small and
+slightly aliased: along the top a playback bar with a small solid triangle at the left and, at the right,
+"128/364"; along the bottom a strip of shooting data reading "1/60  f/2.8  ISO 800"; a small battery
+pictogram in the top right corner, two thirds filled; a thin white rectangle in the centre left of the
+screen marking the focus point.
+Behind the hand, thrown well out of focus: a wet car park under flat overcast light, one distant parked
+car, no readable text anywhere.
+```
+
+---
+
+### NB-36 · Magazine cover with exact cover lines
+`nano-banana` `gemini` — cover, typography
+
+**EN**
+```
+Design the front cover of a Georgian culture magazine: a full-bleed studio portrait with a masthead,
+three cover lines and a barcode panel. 4:5 vertical, treated as a trimmed cover.
+
+Photograph: a ceramicist in her forties, shot from mid-chest up, standing slightly right of centre
+against a flat warm ochre studio ground that runs to all four edges of the cover. She has grey
+threading through dark hair pinned up loosely, no make-up beyond a little colour on the mouth, dry
+hands with clay dust in the creases, and she wears a heavy oatmeal linen shirt, sleeves pushed up.
+She holds an unglazed clay bowl at chest height in both hands and looks straight into the lens with
+her chin slightly down and her mouth closed.
+
+Camera and light: 85mm equivalent, f/5.6, camera at her eye level, straight on. One large softbox
+from camera left at forty-five degrees and slightly above the eyeline; a white bounce at camera
+right returning about one stop, so the shadow side stays open; a second small light on the
+background from the right making the ochre a quarter-stop brighter behind her left shoulder to
+separate her from the ground. The top left of the cover stays an empty ochre field for the masthead.
+
+Safe margins: every piece of type sits at least six percent of the cover width in from all four
+trim edges. Nothing but the photograph reaches the edge; no letter is cropped, touched or crowded.
+
+Text in the image, spelled exactly as written here:
+- Masthead across the top, the largest element on the cover, heavy Georgian sans-serif in warm
+  off-white, letterspaced slightly, centred: „კონტური“. The top of her hair overlaps the lower
+  third of the final letter so she stands in front of the masthead.
+- Directly under the masthead, flush right, about one eighth of the masthead height, widely
+  letterspaced, off-white: „#47 · ოქტომბერი“
+- Down the left edge, a stack of three cover lines, flush left, ragged right, generous line spacing,
+  the first in off-white and larger, the other two smaller and in a pale clay pink:
+  „თიხა, რომელსაც ხელი ახსოვს“
+  „ახალი მარანი გურჯაანში“
+  „ინტერვიუ: რატომ ვბრუნდებით სოფელში“
+- Bottom right, a plain flat white rectangle about eighteen percent of the cover width and ten
+  percent of its height, containing a generic barcode of black vertical bars of varying width with
+  a row of small digits beneath reading "9 771234 567890"
+- Bottom left, the smallest text on the cover, off-white: „ფასი 9,90 ₾“
+
+No real publication name, no logo, no brand mark, no wordmark on the clothing or the bowl.
+
+# ქართული ასოები დიდი ალბათობით შესასწორებელი გამოვა — განსაკუთრებით დიდ სათაურში და
+# „ვბრუნდებით“-ის მსგავს გრძელ სიტყვაში. შედეგი ასოების დონეზე შეამოწმე და საჭიროებისას
+# წარწერა დიზაინის პროგრამაში თავიდან დააწყვე. საიმედო ვარიანტი: სთხოვე მოდელს, ტექსტის
+# ადგილები ცარიელი დატოვოს („leave the masthead area and the left column as clean flat ochre“)
+# და ქართული შრიფტი შენ დაადო.
+```
+
+**KA**
+```
+დააპროექტე ქართული კულტურული ჟურნალის ყდა: სტუდიური პორტრეტი კიდიდან კიდემდე, ზემოდან სათაური,
+სამი საყდო ხაზი და შტრიხკოდის ველი. ვერტიკალური კადრი 4:5, მოჭრილი ყდის სახით.
+
+ფოტო: ორმოცს გადაცილებული კერამიკოსი ქალი, მკერდის შუიდან ზევით; ცენტრიდან ოდნავ მარჯვნივ დგას
+ერთგვაროვან, თბილ ოხრისფერ სტუდიურ ფონზე, რომელიც ყდის ოთხივე კიდემდე აღწევს. მუქ თმაში ჭაღარა
+უვლის, თმა ზემოთ თავისუფლად აქვს აკრეფილი, მაკიაჟი მხოლოდ ტუჩებზეა, ხელები მშრალი და თითების
+ნაკეცებში თიხის მტვერი შერჩენილი. აცვია მძიმე, შვრიისფერი სელის პერანგი, სახელოები აწეული. ორივე
+ხელით მკერდის სიმაღლეზე უჭირავს მოუჭიქავი თიხის თასი და პირდაპირ ობიექტივში იყურება, ნიკაპი ოდნავ
+დახრილი, პირი დახურული.
+
+კამერა და განათება: 85 მმ ექვივალენტი, დიაფრაგმა f/5.6, კამერა მის თვალის დონეზე, პირდაპირ. ერთი
+დიდი რბილი წყარო კამერიდან მარცხნივ, ორმოცდახუთ გრადუსზე და თვალის ხაზზე ოდნავ მაღლა; მარჯვნივ
+თეთრი ამრეკლი ერთი საფეხურით აბრუნებს შუქს, ამიტომ ჩრდილიანი მხარე ღია რჩება; მეორე, პატარა წყარო
+მარჯვნიდან ფონს ანათებს და მარცხენა მხრის უკან ოხრისფერს მეოთხედი საფეხურით ანათლებს, რომ ფიგურა
+ფონს მოსწყდეს. ყდის ზედა მარცხენა ნაწილი ცარიელ ოხრისფერ ველად რჩება სათაურისთვის.
+
+უსაფრთხო ველი: ყოველი წარწერა ოთხივე კიდიდან ყდის სიგანის მინიმუმ ექვსი პროცენტითაა შიგნით.
+კიდემდე მხოლოდ ფოტო აღწევს; არცერთი ასო არ იჭრება, კიდეს არ ეხება და არ იჭყლიტება.
+
+წარწერა სურათში, ზუსტად ასე:
+- სათაური ზემოთ, ყდის ყველაზე დიდი ელემენტი, მძიმე ქართული უსერიფო შრიფტი თბილ მოთეთრო ფერში,
+  ოდნავ გაფართოებული ასოთაშორისი მანძილით, ცენტრში: „კონტური“. თმის თხემი ბოლო ასოს ქვედა მესამედს
+  გადაფარავს, ასე რომ ქალი სათაურის წინ დგას.
+- პირდაპირ სათაურის ქვეშ, მარჯვენა კიდეზე გასწორებული, სათაურის სიმაღლის დაახლოებით მერვედი,
+  გაფართოებული ასოთაშორისი მანძილით, მოთეთროში: „#47 · ოქტომბერი“
+- მარცხენა კიდეზე სამი საყდო ხაზი სვეტად, მარცხნივ გასწორებული, მარჯვნივ თავისუფალი, დიდი
+  სტრიქონთაშორისი მანძილით; პირველი უფრო დიდი და მოთეთრო, დანარჩენი ორი უფრო პატარა და ღია
+  თიხისფერ-ვარდისფერი:
+  „თიხა, რომელსაც ხელი ახსოვს“
+  „ახალი მარანი გურჯაანში“
+  „ინტერვიუ: რატომ ვბრუნდებით სოფელში“
+- ქვედა მარჯვენა კუთხეში ერთგვაროვანი თეთრი მართკუთხედი — ყდის სიგანის დაახლოებით თვრამეტი და
+  სიმაღლის ათი პროცენტი — რომელშიც სხვადასხვა სისქის შავვერტიკალზოლებიანი ზოგადი შტრიხკოდია და
+  ქვეშ წვრილი ციფრების რიგი: „9 771234 567890“
+- ქვედა მარცხენა კუთხეში, ყდის ყველაზე პატარა ტექსტი, მოთეთროში: „ფასი 9,90 ₾“
+
+არცერთი არსებული გამოცემის სახელი, არც ლოგო, არც სავაჭრო ნიშანი; ტანსაცმელსა და თასზე წარწერა არ იყოს.
+
+# ქართული ასოები დიდი ალბათობით შესასწორებელი გამოვა — განსაკუთრებით დიდ სათაურში და „ვბრუნდებით“-ის
+# მსგავს გრძელ სიტყვაში. შედეგი ასოების დონეზე შეამოწმე და საჭიროებისას წარწერა დიზაინის პროგრამაში
+# თავიდან დააწყვე. საიმედო ვარიანტი: სთხოვე მოდელს, ტექსტის ადგილები ცარიელი დატოვოს („leave the
+# masthead area and the left column as clean flat ochre“) და ქართული შრიფტი შენ დაადო.
+---
+Design the front cover of a Georgian culture magazine: a full-bleed studio portrait with a masthead, three
+cover lines and a barcode panel. 4:5 vertical, treated as a trimmed cover.
+Photograph: a ceramicist in her forties, shot from mid-chest up, standing slightly right of centre against
+a flat warm ochre studio ground that runs to all four edges. Grey threading through dark hair pinned up
+loosely, no make-up beyond a little colour on the mouth, dry hands with clay dust in the creases, a heavy
+oatmeal linen shirt with the sleeves pushed up. She holds an unglazed clay bowl at chest height in both
+hands and looks straight into the lens, chin slightly down, mouth closed.
+Camera and light: 85mm equivalent, f/5.6, camera at her eye level, straight on. One large softbox from
+camera left at forty-five degrees and slightly above the eyeline; a white bounce at camera right returning
+about one stop so the shadow side stays open; a second small light on the background from the right making
+the ochre a quarter-stop brighter behind her left shoulder. The top left of the cover stays an empty ochre
+field for the masthead.
+Safe margins: every piece of type sits at least six percent of the cover width in from all four trim edges.
+Nothing but the photograph reaches the edge; no letter is cropped, touched or crowded.
+Text in the image, spelled exactly as written here: masthead across the top, the largest element on the
+cover, heavy Georgian sans-serif in warm off-white, slightly letterspaced, centred: "კონტური", with the top
+of her hair overlapping the lower third of the final letter so she stands in front of it. Directly under
+the masthead, flush right, about one eighth of the masthead height, widely letterspaced, off-white:
+"#47 · ოქტომბერი". Down the left edge, a stack of three cover lines, flush left, ragged right, generous
+line spacing, the first in off-white and larger, the other two smaller and in a pale clay pink:
+"თიხა, რომელსაც ხელი ახსოვს" / "ახალი მარანი გურჯაანში" / "ინტერვიუ: რატომ ვბრუნდებით სოფელში". Bottom
+right, a plain flat white rectangle about eighteen percent of the cover width and ten percent of its
+height, containing a generic barcode of black vertical bars of varying width with a row of small digits
+beneath reading "9 771234 567890". Bottom left, the smallest text on the cover, off-white: "ფასი 9,90 ₾".
+Every Georgian letter must be correctly formed, level and fully legible. No real publication name, no logo,
+no brand mark, no wordmark on the clothing or the bowl.
+```
+
+---
+
+### NB-37 · One face, three lighting schemes
+`nano-banana` `gemini` — headshot, lighting
+
+**EN**
+```
+Produce three professional headshots of the same man under three named lighting schemes. Run them
+as three separate generations from the identical description block below — do not lay them out as
+one sheet and do not build a grid.
+
+The person, carried word for word into all three prompts:
+"A man in his late thirties, close-cropped dark hair receding a little at the temples, a trimmed
+black beard with a few grey hairs at the chin, brown eyes, a straight nose broken once and set
+very slightly off-centre, a small pale scar through the outer half of the left eyebrow, olive skin
+with open pores and visible texture, wearing a plain charcoal merino crew-neck."
+
+Held constant in all three: 4:5 vertical, head and shoulders, the top of the head about one tenth
+of the frame height below the top edge, the person centred, camera at his eye level and straight
+on, 85mm equivalent, f/4, the near eye critically sharp, mouth closed, expression neutral and
+relaxed, a plain mid-grey seamless background, the same camera distance and the same white balance
+in every frame. Skin texture is not smoothed and nothing is retouched away.
+
+Scheme 1 — Rembrandt. One medium softbox at camera left, forty-five degrees round from the lens
+axis and forty-five degrees above the eyeline. The shadow cast by the nose runs down and meets the
+shadow rising from the right cheek, leaving one small lit triangle on the right cheek no wider than
+his eye and no longer than his nose. No fill of any kind: the shadow side sits three stops under
+the lit side, and the background falls off to the right.
+
+Scheme 2 — clamshell. One large source directly in front of him and above, tipped down at about
+thirty degrees, and a white reflector directly below at chest height tipped up. Shadows almost
+disappear; only a small shadow sits directly under the nose and under the lower lip. Two
+catchlights in each eye, one at the top of the iris and one at the bottom. The face is evenly lit
+across its whole width, falling off about one stop at the ears, and the background is a full stop
+brighter than in scheme 1.
+
+Scheme 3 — split with a rim. The key is at ninety degrees to camera left, at eye level, close in
+and undiffused, so the lit half and the dark half divide down the ridge of the nose. No fill at
+all: the shadow half sits four stops under and loses all detail. Behind him and to camera right, a
+narrow hard rim light skims the edge of the right jaw and the top of the right shoulder, a stop
+brighter than the key and spilling onto nothing else. The background goes nearly black.
+
+In all three the man must read as the same individual at the same age: only the light changes.
+```
+
+**KA**
+```
+გააკეთე ერთი და იმავე კაცის 3 პროფესიული პორტრეტი განათების 3 დასახელებული სქემით. ეს სამი ცალკე
+გენერაციაა ქვემოთ მოცემული ერთი და იმავე აღწერის ბლოკიდან — ერთ ფურცლად არ ააწყო და ბადედ არ
+დაალაგო.
+
+ადამიანი — ეს აღწერა სამივე პრომპტში სიტყვასიტყვით გადადის:
+„ოცდაათის ბოლოში მყოფი კაცი: მოკლედ შეკრეჭილი მუქი თმა, საფეთქლებთან ოდნავ შემცირებული; მოვლილი
+შავი წვერი, ნიკაპთან რამდენიმე ჭაღარა ღერით; ყავისფერი თვალები; სწორი ცხვირი, ერთხელ მოტეხილი და
+ძალიან ოდნავ გვერდზე დამჯდარი; მარცხენა წარბის გარე ნახევარზე პატარა ღია ნაიარევი; ზეთისხილისფერი
+კანი ღია ფორებითა და ხილული ფაქტურით; აცვია უბრალო, ნახშირისფერი, მრგვალსაყელოიანი მერინოს პულოვერი.“
+
+სამივეში უცვლელია: ვერტიკალური კადრი 4:5, თავი და მხრები, თავის თხემი ზედა კიდიდან კადრის სიმაღლის
+დაახლოებით მეათედით ქვემოთ, ფიგურა ცენტრში, კამერა მის თვალის დონეზე და პირდაპირ, 85 მმ ექვივალენტი,
+დიაფრაგმა f/4, ახლო თვალი სრულიად მკვეთრი, პირი დახურული, გამომეტყველება ნეიტრალური და მშვიდი, ფონი
+უბრალო, საშუალო ნაცრისფერი და უწყვეტი; კამერამდე მანძილი და თეთრის ბალანსი სამივე კადრში ერთი და იგივე.
+კანის ფაქტურა არ გლუვდება და არაფერი იშლება რეტუშით.
+
+სქემა 1 — რემბრანდტისეული. ერთი საშუალო რბილი წყარო კამერიდან მარცხნივ, ობიექტივის ღერძიდან
+ორმოცდახუთ გრადუსზე და თვალის ხაზიდან ორმოცდახუთი გრადუსით მაღლა. ცხვირის ჩრდილი ქვემოთ ეშვება და
+მარჯვენა ლოყიდან ამომავალ ჩრდილს ხვდება — მარჯვენა ლოყაზე რჩება ერთი პატარა განათებული სამკუთხედი,
+თვალზე არა უფრო განიერი და ცხვირზე არა უფრო გრძელი. შემავსებელი შუქი საერთოდ არ არის: ჩრდილიანი
+მხარე განათებულზე სამი საფეხურით დაბლაა, ფონი კი მარჯვნივ ჩაბნელებაში გადადის.
+
+სქემა 2 — „ნიჟარა“. ერთი დიდი წყარო პირდაპირ მის წინ და ზემოთ, ოცდაათი გრადუსით ქვემოთ დახრილი, და
+თეთრი ამრეკლი პირდაპირ ქვემოთ, მკერდის სიმაღლეზე, ზემოთ მიმართული. ჩრდილები თითქმის ქრება: რჩება
+მხოლოდ პატარა ჩრდილი ცხვირისა და ქვედა ტუჩის ქვეშ. თითოეულ თვალში ორი ბზინვაა — ერთი გუგის თავზე,
+ერთი ქვემოთ. სახე მთელ სიგანეზე თანაბრადაა განათებული და ყურებთან ერთი საფეხურით ეცემა; ფონი პირველ
+სქემაზე მთელი საფეხურით ნათელია.
+
+სქემა 3 — გაპობილი განათება მოჭრილი კონტურით. მთავარი წყარო კამერიდან მარცხნივ, ოთხმოცდაათ გრადუსზე,
+თვალის დონეზე, ახლოს და გაუფანტავი — განათებული და ბნელი ნახევარი ცხვირის ქედზე იყოფა. შემავსებელი
+შუქი სრულიად არ არის: ჩრდილიანი ნახევარი ოთხი საფეხურით დაბლაა და დეტალს მთლიანად კარგავს. უკან და
+კამერიდან მარჯვნივ ვიწრო, მკვეთრი კონტრაჟური შუქი მარჯვენა ყბის კიდესა და მარჯვენა მხრის თავს
+ირიბად ეხება — მთავარ წყაროზე ერთი საფეხურით ნათელია და სხვაგან არსად არ იფანტება. ფონი თითქმის შავია.
+
+სამივე კადრში კაცი ერთსა და იმავე ადამიანად და ერთსა და იმავე ასაკში უნდა იკითხებოდეს: იცვლება
+მხოლოდ შუქი.
+---
+Produce three professional headshots of the same man under three named lighting schemes. Run them as three
+separate generations from the identical description block below — do not lay them out as one sheet and do
+not build a grid.
+The person, carried word for word into all three prompts: "A man in his late thirties, close-cropped dark
+hair receding a little at the temples, a trimmed black beard with a few grey hairs at the chin, brown eyes,
+a straight nose broken once and set very slightly off-centre, a small pale scar through the outer half of
+the left eyebrow, olive skin with open pores and visible texture, wearing a plain charcoal merino crew-neck."
+Held constant in all three: 4:5 vertical, head and shoulders, the top of the head about one tenth of the
+frame height below the top edge, the person centred, camera at his eye level and straight on, 85mm
+equivalent, f/4, the near eye critically sharp, mouth closed, expression neutral and relaxed, a plain
+mid-grey seamless background, the same camera distance and the same white balance in every frame. Skin
+texture is not smoothed and nothing is retouched away.
+Scheme 1 — Rembrandt. One medium softbox at camera left, forty-five degrees round from the lens axis and
+forty-five degrees above the eyeline. The shadow cast by the nose runs down and meets the shadow rising
+from the right cheek, leaving one small lit triangle on the right cheek no wider than his eye and no longer
+than his nose. No fill of any kind: the shadow side sits three stops under the lit side, and the background
+falls off to the right.
+Scheme 2 — clamshell. One large source directly in front of him and above, tipped down at about thirty
+degrees, and a white reflector directly below at chest height tipped up. Shadows almost disappear; only a
+small shadow sits directly under the nose and under the lower lip. Two catchlights in each eye, one at the
+top of the iris and one at the bottom. The face is evenly lit across its whole width, falling off about one
+stop at the ears, and the background is a full stop brighter than in scheme 1.
+Scheme 3 — split with a rim. The key is at ninety degrees to camera left, at eye level, close in and
+undiffused, so the lit half and the dark half divide down the ridge of the nose. No fill at all: the shadow
+half sits four stops under and loses all detail. Behind him and to camera right, a narrow hard rim light
+skims the edge of the right jaw and the top of the right shoulder, a stop brighter than the key and
+spilling onto nothing else. The background goes nearly black.
+In all three the man must read as the same individual at the same age: only the light changes.
+```
+
+---
+
+### NB-38 · Available light indoors, one window
+`nano-banana` `gemini` — portrait, available light
+
+**EN**
+```
+Photograph a woman at a kitchen table in the late afternoon using the window as the only source,
+on colour negative film. The exposure decision is the whole picture, so it is written out below and
+must be followed rather than corrected.
+
+Subject: a woman in her sixties, short grey hair, reading glasses pushed up on her head, both hands
+wrapped around a cup of tea that has gone cold. She is looking down and slightly left, at nothing
+in particular; her mouth is relaxed and she is not performing an expression.
+
+Composition: 4:5 vertical, camera at her seated eye level, about a metre and a half away, 50mm
+equivalent, aperture wide at f/2. She sits on the right third facing left into the light; the empty
+lit third of the table fills the bottom left of the frame with a bread board and a glass on it; the
+wall behind her occupies the upper left.
+
+Light: one tall window at camera left, a metre and a half from her, facing away from the sun so no
+direct beam enters — only open sky. Every lamp in the flat is off and the door to the hall is shut.
+There is no reflector, no bounce card, no second source of any kind.
+
+Exposure reasoning: expose for the lit side of her face and let everything else go where it goes.
+That places the window-side cheek in the upper mid-tones and drops the wall behind her four stops
+under, into a near-black in which only the corner of a picture frame is barely readable. Do not
+lift the shadows, do not add fill, do not bounce anything back from camera right. The shadow side
+of her face keeps only a thin edge of light where the cheek turns toward the window, and the far
+side of the room reads as one undifferentiated dark mass.
+
+Falloff: light from a window close to a subject falls away fast, so her near hand is a full stop
+brighter than her far hand, the rim of the cup catches a thin specular line, and the far edge of
+the table is already dim.
+
+Film character: a fast colour negative used near the bottom of its exposure range. Grain is coarse
+and obvious in the shadows and almost invisible in the lit cheek; the shadows drift slightly cool
+and green while the lit skin stays neutral-warm; contrast is low and the blacks are soft.
+
+Focus: the near eye is sharp, the far ear is already soft, the background is fully out of focus.
+```
+
+**KA**
+```
+გადაიღე ქალი სამზარეულოს მაგიდასთან, შუადღის მიწურულს, ფერად ნეგატივზე — ერთადერთი წყარო ფანჯარაა.
+ექსპოზიციის გადაწყვეტილება აქ თავად სურათია, ამიტომ ქვემოთ სიტყვასიტყვითაა გაწერილი და შესასრულებელია,
+და არა შესასწორებელი.
+
+ობიექტი: სამოცს გადაცილებული ქალი, მოკლე ჭაღარა თმით, საკითხავი სათვალე თმაზე აწეული; ორივე ხელით
+გაციებული ჩაის ჭიქას ეჭიდება. ქვემოთ და ოდნავ მარცხნივ იყურება, არსაით კონკრეტულად; პირი მოდუნებული
+აქვს და გამომეტყველებას არ თამაშობს.
+
+კომპოზიცია: ვერტიკალური კადრი 4:5, კამერა მისი მჯდომარე თვალის დონეზე, მეტრნახევრის მოშორებით,
+50 მმ ექვივალენტი, დიაფრაგმა ფართოდ გახსნილი — f/2. ქალი მარჯვენა მესამედში ზის, მარცხნივ, შუქისკენ
+მიბრუნებული; მაგიდის ცარიელი განათებული მესამედი კადრის ქვედა მარცხენა ნაწილს ავსებს — ზედ პურის
+დაფა და ჭიქაა; ზედა მარცხენა ნაწილს მის უკან მდებარე კედელი იკავებს.
+
+განათება: კამერიდან მარცხნივ ერთი მაღალი ფანჯარა, მისგან მეტრნახევარში, მზისგან პირშექცეული — პირდაპირი
+სხივი არ შემოდის, მხოლოდ ღია ცის შუქი. ბინაში ყველა ნათურა ჩამქრალია და დერეფნის კარი დახურულია.
+არც ამრეკლია, არც თეთრი ფარი, არც რაიმე მეორე წყარო.
+
+ექსპოზიციის ლოგიკა: ექსპოზიცია სახის განათებულ მხარეზე დააყენე და დანარჩენი იქ წავიდეს, სადაც წავა.
+ამით ფანჯრისკენა ლოყა ზედა შუატონებში დაჯდება, უკანა კედელი კი ოთხი საფეხურით ქვემოთ, თითქმის შავში
+ჩავა, სადაც მხოლოდ სურათის ჩარჩოს კუთხე თუ ამოიკითხება. ჩრდილები არ ასწიო, შემავსებელი შუქი არ
+დაამატო, კამერიდან მარჯვნივ არაფერი აირეკლო. სახის ჩრდილიან მხარეს მხოლოდ თხელი განათებული კიდე
+რჩება იქ, სადაც ლოყა ფანჯრისკენ ტრიალდება; ოთახის შორეული ნაწილი ერთიან, დაუნაწევრებელ მუქ მასად
+იკითხება.
+
+დაცემა: ობიექტთან ახლოს მდგარი ფანჯრის შუქი სწრაფად ეცემა — ახლო ხელი შორეულ ხელზე მთელი საფეხურით
+ნათელია, ჭიქის კიდე თხელ ბზინვის ხაზს იჭერს, მაგიდის შორეული ნაპირი კი უკვე ბნელია.
+
+ფირის ხასიათი: მაღალმგრძნობიარე ფერადი ნეგატივი, საკუთარი ექსპოზიციის დიაპაზონის ქვედა ზღვართან.
+მარცვლოვნება ჩრდილებში მსხვილი და აშკარაა, განათებულ ლოყაზე კი თითქმის უხილავი; ჩრდილები ოდნავ ცივ
+და მწვანე ტონში მიდის, განათებული კანი კი ნეიტრალურ-თბილი რჩება; კონტრასტი დაბალია და შავი რბილი.
+
+ფოკუსი: ახლო თვალი მკვეთრია, შორეული ყური უკვე რბილი, ფონი სრულიად დაბუნდოვნებული.
+---
+Photograph a woman at a kitchen table in the late afternoon using the window as the only source, on colour
+negative film. The exposure decision is the whole picture, so it is written out below and must be followed
+rather than corrected.
+Subject: a woman in her sixties, short grey hair, reading glasses pushed up on her head, both hands wrapped
+around a cup of tea that has gone cold. She is looking down and slightly left, at nothing in particular;
+her mouth is relaxed and she is not performing an expression.
+Composition: 4:5 vertical, camera at her seated eye level, about a metre and a half away, 50mm equivalent,
+aperture wide at f/2. She sits on the right third facing left into the light; the empty lit third of the
+table fills the bottom left of the frame with a bread board and a glass on it; the wall behind her occupies
+the upper left.
+Light: one tall window at camera left, a metre and a half from her, facing away from the sun so no direct
+beam enters — only open sky. Every lamp in the flat is off and the door to the hall is shut. There is no
+reflector, no bounce card, no second source of any kind.
+Exposure reasoning: expose for the lit side of her face and let everything else go where it goes. That
+places the window-side cheek in the upper mid-tones and drops the wall behind her four stops under, into a
+near-black in which only the corner of a picture frame is barely readable. Do not lift the shadows, do not
+add fill, do not bounce anything back from camera right. The shadow side of her face keeps only a thin edge
+of light where the cheek turns toward the window, and the far side of the room reads as one
+undifferentiated dark mass.
+Falloff: light from a window close to a subject falls away fast, so her near hand is a full stop brighter
+than her far hand, the rim of the cup catches a thin specular line, and the far edge of the table is
+already dim.
+Film character: a fast colour negative used near the bottom of its exposure range — grain coarse and
+obvious in the shadows and almost invisible in the lit cheek, shadows drifting slightly cool and green
+while the lit skin stays neutral-warm, low contrast, soft blacks.
+Focus: the near eye is sharp, the far ear is already soft, the background is fully out of focus.
+```
+
+---
+
+### NB-39 · Long exposure on a night street
+`nano-banana` `gemini` — long exposure, night
+
+**EN**
+```
+Photograph a street in Vake, Tbilisi, at night with the shutter held open a long time. Do not think
+in numbers: the shutter stays open long enough that a person walking at a normal pace crosses a
+third of the frame before it closes. Everything in this brief follows from that one fact.
+
+Composition: 16:9 horizontal. The camera is locked on a tripod on the pavement, at chest height,
+level, 35mm equivalent, aperture stopped well down. The street runs away to the right; plane trees
+line the near pavement; a nineteen-sixties apartment block with a row of lit windows and enclosed
+balconies fills the left two thirds; a small kiosk sits at the right third with a zebra crossing in
+front of it.
+
+What is perfectly sharp, because the camera never moved: the trees down to the edge of every leaf,
+the render and the balcony rails on the block, the window frames, the kiosk, the painted stripes of
+the crossing, the kerb, and the litter in the gutter. Sharpness here is the evidence that the camera
+was fixed.
+
+What is a smear, because it moved while the shutter was open: the pedestrians. A man who kept
+walking across the crossing has become a faint translucent band with no face, no hands and no
+edges, and the railing behind him is clearly visible through his body. A woman who stopped halfway
+for part of the exposure leaves a denser, more solid ghost exactly where she paused, fading at both
+ends into nothing.
+
+The marshutka: a minibus crossed the frame from left to right and its body has vanished entirely.
+What it left is light. Its headlights drew two continuous warm-white lines running left to right
+across the lower third at bumper height; its tail lights drew two red lines just above and behind
+them; a row of small amber roof points drew a thin dotted line higher still. Every trail runs in
+one direction only, left to right, unbroken, with no doubling, no dashes and no reversal anywhere.
+Where the marshutka braked before the crossing, the red lines thicken and bend slightly upward.
+
+Point sources: the streetlamps and the lit windows render as bright points with a clean
+multi-pointed star, because the diaphragm is closed down. The wet asphalt returns all of it as
+wider, softer, vertically stretched reflections directly beneath each source.
+
+Exposure decision: expose for the lit facade and let the sky go black. Do not brighten the sky, do
+not recover the shadows between the trees, and do not add haze or glow that the lights do not make
+themselves.
+
+No legible signage, no logo, no brand name, and no recognisable individual anywhere in frame.
+```
+
+**KA**
+```
+გადაიღე ვაკის ქუჩა ღამით, დიდხანს გახსნილი ჩამკეტით. ციფრებით არ იფიქრო: ჩამკეტი იმდენ ხანს რჩება
+ღია, რომ ჩვეულებრივი ნაბიჯით მოსიარულე ადამიანი კადრის მესამედს გადაკვეთს, სანამ დაიხურება. ამ ბრიფში
+ყველაფერი სწორედ ამ ერთი ფაქტიდან გამომდინარეობს.
+
+კომპოზიცია: ჰორიზონტალური კადრი 16:9. კამერა ტროტუარზე, შტატივზე ფიქსირებულია, მკერდის სიმაღლეზე,
+სწორად დაყენებული, 35 მმ ექვივალენტი, დიაფრაგმა კარგად შევიწროებული. ქუჩა მარჯვნივ მიდის; ახლო
+ტროტუარს ჭადრები უწყვია; მარცხენა ორ მესამედს სამოციანი წლების საცხოვრებელი კორპუსი ავსებს —
+განათებული ფანჯრების რიგითა და შეშუშებული აივნებით; მარჯვენა მესამედში პატარა ჯიხურია, მის წინ კი
+გადასასვლელის ზოლები.
+
+რა არის სრულიად მკვეთრი, რადგან კამერა არ დაძრულა: ჭადრები ყოველი ფოთლის კიდემდე, კორპუსის ბათქაში
+და აივნების მოაჯირები, ფანჯრების ჩარჩოები, ჯიხური, გადასასვლელის შეღებილი ზოლები, ბორდიური და
+ღარში ჩარჩენილი ნაგავი. აქ მკვეთრობა თავად არის იმის მტკიცებულება, რომ კამერა უძრავად იდგა.
+
+რა გაიშალა ლაქად, რადგან ჩამკეტის ღიად ყოფნისას მოძრაობდა: ქვეითები. კაცი, რომელიც გადასასვლელზე
+გაუჩერებლად გადიოდა, მკრთალ, გამჭვირვალე ზოლად იქცა — არც სახე აქვს, არც ხელები, არც კიდეები — და
+მის სხეულში უკანა მოაჯირი აშკარად ჩანს. ქალი, რომელიც ექსპოზიციის ნაწილის განმავლობაში შუა გზაზე
+შეჩერდა, ზუსტად იქ, სადაც გაჩერდა, უფრო მკვრივ აჩრდილად დარჩა, რომელიც ორივე ბოლოსკენ ნელ-ნელა ქრება.
+
+მარშრუტკა: მიკროავტობუსმა კადრი მარცხნიდან მარჯვნივ გადაკვეთა და მისი კორპუსი მთლიანად გაქრა.
+დარჩა მხოლოდ შუქი. ფარებმა ქვედა მესამედში, ბამპერის სიმაღლეზე, მარცხნიდან მარჯვნივ ორი უწყვეტი
+თბილ-თეთრი ხაზი გაავლეს; უკანა შუქებმა მათ ზემოთ და უკან ორი წითელი ხაზი; სახურავის წვრილმა
+ქარვისფერმა წერტილებმა კი კიდევ უფრო მაღლა თხელი წყვეტილი ხაზი. ყოველი კვალი მხოლოდ ერთი
+მიმართულებით მიდის — მარცხნიდან მარჯვნივ, უწყვეტად, არსად გაორების, დახლეჩისა და უკუსვლის გარეშე.
+იქ, სადაც მარშრუტკამ გადასასვლელამდე დაამუხრუჭა, წითელი ხაზები სქელდება და ოდნავ მაღლა იხრება.
+
+წერტილოვანი წყაროები: ქუჩის ფარნები და განათებული ფანჯრები კაშკაშა წერტილებად იკითხება სუფთა,
+მრავალსხივიანი ვარსკვლავით, რადგან დიაფრაგმა შევიწროებულია. სველი ასფალტი ამ ყველაფერს უკან
+აბრუნებს — უფრო განიერი, რბილი, ვერტიკალურად გაჭიმული ანარეკლებით, პირდაპირ ყოველი წყაროს ქვეშ.
+
+ექსპოზიციის გადაწყვეტილება: ექსპოზიცია განათებულ ფასადზე დააყენე და ცა შავად გაუშვი. ცა არ გაანათლო,
+ხეებს შორის ჩრდილები არ ამოიყვანო და ისეთი ნისლი ან ნათება არ დაამატო, რომელსაც თავად ფარნები არ
+ქმნიან.
+
+კადრში არც წაკითხვადი წარწერა, არც ლოგო, არც ბრენდის სახელი და არცერთი ამოსაცნობი ადამიანი.
+---
+Photograph a street in Vake, Tbilisi, at night with the shutter held open a long time. Do not think in
+numbers: the shutter stays open long enough that a person walking at a normal pace crosses a third of the
+frame before it closes. Everything in this brief follows from that one fact.
+Composition: 16:9 horizontal. The camera is locked on a tripod on the pavement, at chest height, level,
+35mm equivalent, aperture stopped well down. The street runs away to the right; plane trees line the near
+pavement; a nineteen-sixties apartment block with a row of lit windows and enclosed balconies fills the
+left two thirds; a small kiosk sits at the right third with a zebra crossing in front of it.
+What is perfectly sharp, because the camera never moved: the trees down to the edge of every leaf, the
+render and the balcony rails, the window frames, the kiosk, the painted stripes of the crossing, the kerb,
+and the litter in the gutter. Sharpness here is the evidence that the camera was fixed.
+What is a smear, because it moved while the shutter was open: the pedestrians. A man who kept walking
+across the crossing has become a faint translucent band with no face, no hands and no edges, and the
+railing behind him is clearly visible through his body. A woman who stopped halfway for part of the
+exposure leaves a denser, more solid ghost exactly where she paused, fading at both ends into nothing.
+The marshutka: a minibus crossed the frame from left to right and its body has vanished entirely. What it
+left is light. Its headlights drew two continuous warm-white lines running left to right across the lower
+third at bumper height; its tail lights drew two red lines just above and behind them; a row of small amber
+roof points drew a thin dotted line higher still. Every trail runs in one direction only, left to right,
+unbroken, with no doubling, no dashes and no reversal anywhere. Where the marshutka braked before the
+crossing, the red lines thicken and bend slightly upward.
+Point sources: the streetlamps and the lit windows render as bright points with a clean multi-pointed star,
+because the diaphragm is closed down. The wet asphalt returns all of it as wider, softer, vertically
+stretched reflections directly beneath each source.
+Exposure decision: expose for the lit facade and let the sky go black. Do not brighten the sky, do not
+recover the shadows between the trees, and do not add haze or glow that the lights do not make themselves.
+No legible signage, no logo, no brand name, and no recognisable individual anywhere in frame.
+```
+
+---
+
+### NB-40 · Golden-hour backlit portrait
+`nano-banana` `gemini` — backlight, golden hour
+
+**EN**
+```
+Photograph a young woman on the Batumi seafront about twenty minutes before sunset, lit from
+behind. Backlight is easy to get wrong in two directions — a black face or a washed-out haze — so
+the fill and the flare are specified below and both must be followed.
+
+Subject: a woman in her mid-twenties, dark hair loose and moving in the onshore wind, a thin
+rust-coloured knit, no jewellery. She is turned slightly away from the lens, looking off to camera
+left at something on the water, not smiling for the camera; one hand is lifting a strand of hair
+off her face.
+
+Composition: 4:5 vertical, chest up, the figure slightly right of centre. The sea horizon crosses
+behind her at shoulder height; the pebble shoreline runs out of the bottom left corner; a line of
+tamarisk sits far out of focus at the left edge. Camera at her eye level, straight on, 85mm
+equivalent, f/2, focused on the near eye so the sea behind dissolves completely.
+
+Main light: the sun is low and behind her, about fifteen degrees off the lens axis to camera right
+rather than dead centre. It lays a hot orange rim along the top of her hair, down the edge of her
+right shoulder and along the line of her jaw, separating her cleanly from the water, and it turns
+the sea into a broad field of soft golden specular glitter thrown right out of focus.
+
+Flare, controlled: let the edge of her hair occlude most of the sun's disc. One warm veil of flare
+spills in from the upper right, lifting the contrast in that quadrant by about a stop, plus one
+small soft polygonal ghost below and left of the sun. No rainbow streaks, no anamorphic line, no
+overlay effect, and no flare crossing her eyes.
+
+Fill, explicit: backlight alone would leave her face about four stops under. Place a large white
+reflector just outside the frame at camera left, one metre from her and slightly below her chin,
+angled up, returning sunlight to her face at roughly one and a half stops below the rim. The face
+is then clearly lit and open, with soft shadows under the brow and the nose and a long low
+catchlight in each eye. The face must not be a silhouette and must not go black. The reflector is
+white, not silver: no hard specular hotspot on the cheek.
+
+Colour: set the white balance for the warm light so her skin reads natural rather than orange,
+while the sky and the sea keep their gold. Contrast is moderate, the shadows stay open and slightly
+cool by comparison, and there is no crushed black anywhere in the frame.
+```
+
+**KA**
+```
+გადაიღე ახალგაზრდა ქალის კონტრაჟური პორტრეტი ბათუმის სანაპიროზე, მზის ჩასვლამდე დაახლოებით ოცი
+წუთით ადრე. კონტრაჟურში ორი მიმართულებით შეიძლება წახდეს კადრი — შავი სახე ან გადარეცხილი ნისლი —
+ამიტომ შემავსებელი შუქი და ბლიკი ქვემოთ ზუსტადაა გაწერილი და ორივე შესასრულებელია.
+
+ობიექტი: ოცდახუთი წლის ქალი, მუქი თმა თავისუფლად და ზღვის ნიავში აწეული, თხელი ჟანგისფერი ნაქსოვი,
+სამკაულის გარეშე. ობიექტივიდან ოდნავ მიბრუნებულია, კამერიდან მარცხნივ, წყალზე რაღაცას გასცქერის და
+კამერისთვის არ იღიმება; ერთი ხელით თმის ღერს სახიდან იშორებს.
+
+კომპოზიცია: ვერტიკალური კადრი 4:5, მკერდზევით, ფიგურა ცენტრიდან ოდნავ მარჯვნივ. ზღვის ჰორიზონტი მის
+უკან მხრების სიმაღლეზე გადის; კენჭებიანი სანაპირო ქვედა მარცხენა კუთხიდან გადის კადრს; მარცხენა
+კიდესთან, ღრმად დაბუნდოვნებული, იალღუნების რიგია. კამერა მისი თვალის დონეზე, პირდაპირ, 85 მმ
+ექვივალენტი, დიაფრაგმა f/2, ფოკუსი ახლო თვალზე — უკანა ზღვა სრულიად იშლება.
+
+მთავარი შუქი: მზე დაბალია და მის უკან დგას, ობიექტივის ღერძიდან დაახლოებით თხუთმეტი გრადუსით
+კამერისკენ მარჯვნივ და არა ზუსტად ცენტრში. ის თმის თხემზე, მარჯვენა მხრის კიდესა და ყბის ხაზზე ცხელ
+ნარინჯისფერ კონტურს დებს და ფიგურას წყალს სუფთად აცილებს; ზღვას კი განიერ, რბილ ოქროსფერ ბზინვის
+ველად აქცევს, სრულიად ფოკუსგარეშე.
+
+ბლიკი, კონტროლირებული: მზის დისკის უმეტესი ნაწილი თმის კიდემ დაფაროს. ზედა მარჯვენა კუთხიდან ერთი
+თბილი ბლიკის ფარდა შემოდის და იმ მეოთხედში კონტრასტს დაახლოებით ერთი საფეხურით წევს; გარდა ამისა,
+მზის ქვემოთ და მარცხნივ ერთი პატარა, რბილი მრავალკუთხა აჩრდილია. არც ცისარტყელისებრი ზოლი, არც
+ანამორფული ხაზი, არც ზედდებული ეფექტი და არც ბლიკი, რომელიც თვალებს კვეთს.
+
+შემავსებელი შუქი, პირდაპირ: მხოლოდ კონტრაჟურით სახე ოთხი საფეხურით ჩაბნელდებოდა. კადრს გარეთ,
+კამერიდან მარცხნივ, მისგან ერთ მეტრში და ნიკაპზე ოდნავ დაბლა დადგი დიდი თეთრი ამრეკლი, ზემოთ დახრილი,
+რომელიც მზის შუქს სახეზე აბრუნებს კონტურზე დაახლოებით საფეხურნახევრით დაბლა. შედეგად სახე ნათლად და
+ღიად არის განათებული, წარბისა და ცხვირის ქვეშ რბილი ჩრდილებით და თითოეულ თვალში გრძელი, დაბალი
+ბზინვით. სახე არც სილუეტი უნდა იყოს და არც შავში ჩავარდეს. ამრეკლი თეთრია და არა ვერცხლისფერი:
+ლოყაზე მკვეთრი ბზინვის ლაქა არ გაჩნდეს.
+
+ფერი: თეთრის ბალანსი თბილ შუქზე დააყენე, რომ კანი ნარინჯისფრად კი არა, ბუნებრივად წაიკითხოს, ცამ და
+ზღვამ კი ოქროსფერი შეინარჩუნოს. კონტრასტი ზომიერია, ჩრდილები ღია და შედარებით გრილი რჩება, კადრში
+კი ჩაჭრილი შავი არსად არის.
+---
+Photograph a young woman on the Batumi seafront about twenty minutes before sunset, lit from behind.
+Backlight is easy to get wrong in two directions — a black face or a washed-out haze — so the fill and the
+flare are specified below and both must be followed.
+Subject: a woman in her mid-twenties, dark hair loose and moving in the onshore wind, a thin rust-coloured
+knit, no jewellery. She is turned slightly away from the lens, looking off to camera left at something on
+the water, not smiling for the camera; one hand is lifting a strand of hair off her face.
+Composition: 4:5 vertical, chest up, the figure slightly right of centre. The sea horizon crosses behind
+her at shoulder height; the pebble shoreline runs out of the bottom left corner; a line of tamarisk sits
+far out of focus at the left edge. Camera at her eye level, straight on, 85mm equivalent, f/2, focused on
+the near eye so the sea behind dissolves completely.
+Main light: the sun is low and behind her, about fifteen degrees off the lens axis to camera right rather
+than dead centre. It lays a hot orange rim along the top of her hair, down the edge of her right shoulder
+and along the line of her jaw, separating her cleanly from the water, and it turns the sea into a broad
+field of soft golden specular glitter thrown right out of focus.
+Flare, controlled: let the edge of her hair occlude most of the sun's disc. One warm veil of flare spills in
+from the upper right, lifting the contrast in that quadrant by about a stop, plus one small soft polygonal
+ghost below and left of the sun. No rainbow streaks, no anamorphic line, no overlay effect, and no flare
+crossing her eyes.
+Fill, explicit: backlight alone would leave her face about four stops under. Place a large white reflector
+just outside the frame at camera left, one metre from her and slightly below her chin, angled up, returning
+sunlight to her face at roughly one and a half stops below the rim. The face is then clearly lit and open,
+with soft shadows under the brow and the nose and a long low catchlight in each eye. The face must not be a
+silhouette and must not go black. The reflector is white, not silver: no hard specular hotspot on the cheek.
+Colour: set the white balance for the warm light so her skin reads natural rather than orange, while the sky
+and the sea keep their gold. Contrast is moderate, the shadows stay open and slightly cool by comparison,
+and there is no crushed black anywhere in the frame.
+```
+
+---
+
+### NB-41 · Isometric cutaway of a Tbilisi courtyard flat
+`nano-banana` `gemini` — isometric, cutaway, interior
+
+**EN**
+```
+Draw an isometric cutaway of a one-bedroom flat on the first floor of an old Tbilisi courtyard
+house — the kind reached by a wooden gallery that runs right around an inner yard. 1:1 square,
+rendered at 2K. This is a constructed drawing, not a photograph.
+
+The projection is the binding rule and everything else is subordinate to it. Use true isometric,
+not a perspective view: the two horizontal axes run thirty degrees above the page horizontal, one
+to the left and one to the right, all three axes are foreshortened equally, and every vertical edge
+in the building stays vertical on the page. Lines that are parallel in the flat stay parallel in
+the drawing and never converge. There is no vanishing point, no horizon line and no lens distortion
+anywhere in the image. A floor tile in the far corner of the room must be drawn at exactly the same
+size as a floor tile in the near corner — if the far end of the room looks smaller, the projection
+is wrong and the drawing has failed.
+
+The cutaway: the two walls nearest the viewer are removed completely and the flat stands open like
+a doll's house. The two far walls are at full height with their cornices intact. Draw the cut edge
+of each removed wall as a visible band of plaster over brick running along the floor line and up
+the corner, so the viewer can read how thick the walls are.
+
+Contents, all on one floor plate, arranged left to right: a main room with a high ceiling, a
+moulded plaster cornice, dark patterned parquet, a low sofa under the window wall, a round table
+with three chairs and a tall tiled stove in the corner; a pair of tall glazed doors on the far wall
+opening onto a narrow wooden balcony with a carved railing and a line of washing; a small kitchen
+on the right with an enamel sink, a two-burner stove and open shelves; and a short hallway with a
+coat hook and a worn runner. Simplify every object into clean planes — no clutter and nothing
+smaller than a teapot.
+
+Light: a single implied source high on the left. Every cast shadow in the drawing falls down and to
+the right at the same angle, and each shadow's length is proportional to its object's height by the
+same ratio across the whole scene. Surfaces facing up are the lightest, surfaces facing left are
+one step darker, surfaces facing right are two steps darker — apply that to every plane in the
+image without exception.
+
+Style: clean architectural illustration, matte flat fills with one soft shading step, a warm
+palette of terracotta, ochre, sage and off-white, thin uniform outlines, no photographic texture,
+no people and no text anywhere in the image.
+```
+
+**KA**
+```
+დახატე ძველი თბილისური ეზოიანი სახლის პირველი სართულის ბინის იზომეტრიული ჭრილი — იმ ტიპის სახლისა,
+სადაც ბინამდე ხის აივანი მიდის და აივანი შიდა ეზოს გარს უვლის. კვადრატული კადრი 1:1, რენდერი 2K.
+ეს აგებული ნახაზია და არა ფოტო.
+
+მთავარი წესი პროექციაა და დანარჩენი ყველაფერი მას ემორჩილება. გამოიყენე ნამდვილი იზომეტრია და არა
+პერსპექტივა: 2 ჰორიზონტალური ღერძი ფურცლის ჰორიზონტალიდან 30 გრადუსით მაღლა მიდის — ერთი მარცხნივ,
+მეორე მარჯვნივ; სამივე ღერძი თანაბრადაა შემოკლებული; შენობის ყოველი ვერტიკალური წიბო ფურცელზე
+ვერტიკალური რჩება. ხაზები, რომლებიც ბინაში პარალელურია, ნახაზზეც პარალელური რჩება და არსად
+უახლოვდება ერთმანეთს. სურათში არ არის არც გაქრობის წერტილი, არც ჰორიზონტის ხაზი და არც ობიექტივის
+დამახინჯება. ოთახის შორეულ კუთხეში მდებარე იატაკის ფილა ზუსტად იმავე ზომით უნდა დაიხატოს, რითაც
+ახლო კუთხის ფილა — თუ ოთახის შორეული ბოლო უფრო პატარა გამოჩნდა, პროექცია მცდარია და ნახაზი
+გამოსაგდებია.
+
+ჭრილი: მაყურებელთან ყველაზე ახლოს მდგარი 2 კედელი სრულად ამოღებულია და ბინა თოჯინების სახლივით ღია
+რჩება. შორეული 2 კედელი სრულ სიმაღლეზე დგას, კარნიზებიანად. ამოღებული კედლის ჭრილის კიდე დახატე
+ხილული ზოლით — ბათქაში აგურზე — იატაკის ხაზის გასწვრივ და კუთხეში ზემოთ, რომ მაყურებელმა კედლის
+სისქე წაიკითხოს.
+
+რა დგას შიგნით, ერთ იატაკის სიბრტყეზე, მარცხნიდან მარჯვნივ: მთავარი ოთახი მაღალი ჭერით, თაბაშირის
+კარნიზით, მუქი, ნახატიანი პარკეტით, ფანჯრის კედელთან დაბალი დივანი, მრგვალი მაგიდა 3 სკამით და
+კუთხეში მაღალი, კაფელიანი ღუმელი; შორეულ კედელზე მაღალი მინიანი კარი, რომელიც ვიწრო ხის აივანზე
+გადის მოჩუქურთმებული მოაჯირითა და გაფენილი სარეცხის ხაზით; მარჯვნივ პატარა სამზარეულო ემალის
+ნიჟარით, ორსანთურიანი ქურითა და ღია თაროებით; და მოკლე დერეფანი ტანსაცმლის კაუჭითა და გაცვეთილი
+ხალიჩით. ყოველი საგანი სუფთა სიბრტყედ გაამარტივე — ზედმეტი წვრილმანის გარეშე, ჩაიდანზე პატარა
+არაფერი.
+
+განათება: ერთი ნაგულისხმევი წყარო მაღლა, მარცხნივ. ნახაზში ყოველი დაცემული ჩრდილი ქვემოთ და
+მარჯვნივ ეცემა, ერთი და იმავე კუთხით; ჩრდილის სიგრძე საგნის სიმაღლის იმავე პროპორციით იზრდება
+მთელ სცენაში. ზემოთ მიმართული ზედაპირი ყველაზე ნათელია, მარცხნივ მიმართული — ერთი საფეხურით მუქი,
+მარჯვნივ მიმართული — ორი საფეხურით მუქი; ეს წესი გამონაკლისის გარეშე ყველა სიბრტყეს მოარგე.
+
+სტილი: სუფთა არქიტექტურული ილუსტრაცია, მქრქალი ბრტყელი შევსება ერთი რბილი საფეხურის ჩრდილით, თბილი
+პალიტრა — ტერაკოტა, ოხრა, მწვანე-ნაცრისფერი და მოთეთრო; თხელი, ერთგვაროვანი კონტური; ფოტოგრაფიული
+ფაქტურის გარეშე; ადამიანისა და ნებისმიერი წარწერის გარეშე.
+---
+Draw an isometric cutaway of a one-bedroom flat on the first floor of an old Tbilisi courtyard house —
+the kind reached by a wooden gallery that runs right around an inner yard. 1:1 square, rendered at 2K.
+This is a constructed drawing, not a photograph.
+The projection is the binding rule and everything else is subordinate to it. Use true isometric, not a
+perspective view: the two horizontal axes run thirty degrees above the page horizontal, one to the left
+and one to the right, all three axes are foreshortened equally, and every vertical edge in the building
+stays vertical on the page. Lines that are parallel in the flat stay parallel in the drawing and never
+converge. There is no vanishing point, no horizon line and no lens distortion anywhere in the image. A
+floor tile in the far corner of the room must be drawn at exactly the same size as a floor tile in the
+near corner — if the far end of the room looks smaller, the projection is wrong and the drawing has
+failed.
+The cutaway: the two walls nearest the viewer are removed completely and the flat stands open like a
+doll's house. The two far walls are at full height with their cornices intact. Draw the cut edge of each
+removed wall as a visible band of plaster over brick running along the floor line and up the corner, so
+the viewer can read how thick the walls are.
+Contents, all on one floor plate, arranged left to right: a main room with a high ceiling, a moulded
+plaster cornice, dark patterned parquet, a low sofa under the window wall, a round table with three
+chairs and a tall tiled stove in the corner; a pair of tall glazed doors on the far wall opening onto a
+narrow wooden balcony with a carved railing and a line of washing; a small kitchen on the right with an
+enamel sink, a two-burner stove and open shelves; and a short hallway with a coat hook and a worn runner.
+Simplify every object into clean planes — no clutter and nothing smaller than a teapot.
+Light: a single implied source high on the left. Every cast shadow in the drawing falls down and to the
+right at the same angle, and each shadow's length is proportional to its object's height by the same
+ratio across the whole scene. Surfaces facing up are the lightest, surfaces facing left are one step
+darker, surfaces facing right are two steps darker — apply that to every plane in the image without
+exception.
+Style: clean architectural illustration, matte flat fills with one soft shading step, a warm palette of
+terracotta, ochre, sage and off-white, thin uniform outlines, no photographic texture, no people and no
+text anywhere in the image.
+```
+
+---
+
+### NB-42 · Gergeti as a tabletop diorama — tilt-shift miniature
+`nano-banana` `gemini` — tilt-shift, miniature, diorama
+
+**EN**
+```
+Photograph Gergeti Trinity church and the ridge it stands on as if the whole place were a tabletop
+diorama built by a hobbyist and shot on a large-format camera with the lens tilted. 3:2 horizontal,
+rendered at 2K. The place is real; the illusion to build is that it is half a metre wide.
+
+Camera: high and far back, looking down on the scene at about forty degrees — the angle at which
+you look at a model on a table, not the angle at which you photograph a mountain from another
+mountain. Long lens, so the ridge compresses and the sense of distance flattens out.
+
+The focus falloff is what sells the trick and it must be pushed far past anything a real lens would
+do at this distance. One narrow horizontal band across the middle of the frame is critically sharp:
+the church, its enclosing wall and a few metres of grass around it. Above and below that band the
+blur grows fast and smoothly — the foreground slope at the bottom edge and the snowfield and sky at
+the top edge are both blurred until individual features stop being readable — and nothing outside
+the band is sharp anywhere.
+
+The scale cues, all of them deliberate. The grass reads as model-railway flock rather than real
+vegetation: slightly too even in colour and too uniform in height. The snow on the peak behind
+reads as poured plaster with soft rounded edges instead of wind-carved crust. The gravel track up
+the ridge is a smooth painted ribbon with no loose stones on it. The stone of the church is crisply
+moulded, its edges a touch too regular, its joints a touch too even. The few visitors by the wall
+are four millimetres tall, blurred, stiffly posed and without facial detail, like painted figures —
+nobody in the frame is recognisable.
+
+Colour: push saturation one clear step past natural. The greens of the grass and the blue of the
+sky are richer than daylight would give them, contrast is raised, and the shadows stay open and
+slightly blue rather than falling to black.
+
+Light: one hard high source from the upper left, as if from a single lamp over a workbench, giving
+short crisp shadows off the church and the wall, every one of them falling in the same direction.
+```
+
+**KA**
+```
+გადაიღე გერგეტის სამება და ქედი, რომელზეც დგას, ისე, თითქოს მთელი ადგილი მაგიდაზე აწყობილი დიორამაა —
+ხელით აშენებული მაკეტი — და დიდფორმატიანი კამერით, დახრილი ობიექტივით იღებ. ჰორიზონტალური კადრი 3:2,
+რენდერი 2K. ადგილი ნამდვილია — ასაგები ილუზია ის არის, რომ ის ნახევარი მეტრის სიგანისაა.
+
+კამერა: მაღლა და შორს, სცენას დაახლოებით 40 გრადუსით ზემოდან უყურებს — ისე, როგორც მაგიდაზე მდგარ
+მაკეტს შეხედავდი და არა ისე, როგორც მთას მეორე მთიდან იღებ. გრძელი ობიექტივი, ამიტომ ქედი იკუმშება
+და სიშორის შეგრძნება ბრტყელდება.
+
+ხრიკს ფოკუსის სწრაფი დაკარგვა ყიდის და ის გადაჭარბებული უნდა იყოს — ბევრად ძლიერი, ვიდრე ამ
+მანძილზე ნამდვილი ობიექტივი მოგცემდა. კადრის შუაში ერთი ვიწრო ჰორიზონტალური ზოლი უმკვეთრესია:
+ტაძარი, მისი გალავანი და გარშემო რამდენიმე მეტრი ბალახი. ამ ზოლის ზემოთ და ქვემოთ ბუნდოვნება
+სწრაფად და თანაბრად იზრდება — ქვედა კიდეზე წინა პლანის ფერდობი, ზედა კიდეზე თოვლიანი მწვერვალი და
+ცა იმდენად იბინდება, რომ ცალკეული დეტალი აღარ იკითხება; ზოლის გარეთ არსად არაფერი რჩება მკვეთრი.
+
+მასშტაბის მინიშნებები — ყველა შეგნებული. ბალახი ნამდვილ მცენარეულობას კი არა, სამოდელო რკინიგზის
+საფენს ჰგავს: ფერით ოდნავ ზედმეტად ერთგვაროვანი და სიმაღლით ზედმეტად თანაბარი. უკან მწვერვალზე
+თოვლი ქარისგან გამოკვეთილ ქერქს კი არა, ჩამოსხმულ თაბაშირს ჰგავს — რბილი, მომრგვალებული კიდეებით.
+ქედზე ასასვლელი ხრეშის გზა გლუვი, შეღებილი ლენტია, ცალკეული ქვის გარეშე. ტაძრის ქვა მკაფიოდაა
+გამოძერწილი, მისი წიბო ოდნავ ზედმეტად სწორია, ნაკერი ოდნავ ზედმეტად თანაბარი. გალავანთან მდგარი
+რამდენიმე ვიზიტორი 4 მილიმეტრის სიმაღლისაა, დაბინდული, უხერხულად გაშეშებული და სახის ნაკვთების
+გარეშე — შეღებილი ფიგურებივით; კადრში არავინ არ არის ამოსაცნობი.
+
+ფერი: სიხასხასე ბუნებრივზე ერთი მკაფიო საფეხურით მაღლა აწიე. ბალახის მწვანე და ცის ლურჯი უფრო
+მაძღარია, ვიდრე დღის შუქი მოგცემდა; კონტრასტი აწეულია; ჩრდილები ღია და ოდნავ მოლურჯო რჩება და
+შავში არ გადადის.
+
+განათება: ერთი მკვეთრი, მაღალი წყარო ზედა მარცხენა მხრიდან — თითქოს სამუშაო მაგიდაზე ერთი ნათურა
+ჰკიდია; ტაძრიდან და გალავნიდან მოკლე, მკაფიო ჩრდილები ეცემა, ყველა ერთი მიმართულებით.
+---
+Photograph Gergeti Trinity church and the ridge it stands on as if the whole place were a tabletop
+diorama built by a hobbyist and shot on a large-format camera with the lens tilted. 3:2 horizontal, rendered at
+2K. The place is real; the illusion to build is that it is half a metre wide.
+Camera: high and far back, looking down on the scene at about forty degrees — the angle at which you look
+at a model on a table, not the angle at which you photograph a mountain from another mountain. Long lens,
+so the ridge compresses and the sense of distance flattens out.
+The focus falloff is what sells the trick and it must be pushed far past anything a real lens would do at
+this distance. One narrow horizontal band across the middle of the frame is critically sharp: the church,
+its enclosing wall and a few metres of grass around it. Above and below that band the blur grows fast and
+smoothly — the foreground slope at the bottom edge and the snowfield and sky at the top edge are both
+blurred until individual features stop being readable — and nothing outside the band is sharp anywhere.
+The scale cues, all of them deliberate. The grass reads as model-railway flock rather than real
+vegetation: slightly too even in colour and too uniform in height. The snow on the peak behind reads as
+poured plaster with soft rounded edges instead of wind-carved crust. The gravel track up the ridge is a
+smooth painted ribbon with no loose stones on it. The stone of the church is crisply moulded, its edges a
+touch too regular, its joints a touch too even. The few visitors by the wall are four millimetres tall,
+blurred, stiffly posed and without facial detail, like painted figures — nobody in the frame is
+recognisable.
+Colour: push saturation one clear step past natural. The greens of the grass and the blue of the sky are
+richer than daylight would give them, contrast is raised, and the shadows stay open and slightly blue
+rather than falling to black.
+Light: one hard high source from the upper left, as if from a single lamp over a workbench, giving short
+crisp shadows off the church and the wall, every one of them falling in the same direction.
+```
+
+---
+
+### NB-43 · Floating island — a headland lifted out of the ground
+`nano-banana` `gemini` — surreal, geology, landscape
+
+**EN**
+```
+Render a small coastal headland lifted out of the earth and left hanging in open sky, the
+lighthouse still standing on top of it and the ground it was cut from hanging underneath. 4:5
+vertical, rendered at 2K.
+
+The island: an irregular chunk of land about forty metres across at the top, tapering downward to a
+ragged point some sixty metres below the surface. The top surface is intact and undisturbed —
+cropped sea grass, a gravel path, a whitewashed stone lighthouse with a black lantern housing, a
+low drystone wall and two wind-bent pines leaning away from the same side. Nothing up there
+suggests that anything unusual has happened, and that is deliberate: the illusion works because the
+surface looks entirely ordinary.
+
+The underside is the subject of the picture and it must read as a geological section, not as a
+generic lump of rock. From the top down: fifteen centimetres of dark root-bound topsoil with grass
+roots trailing out of the cut; a pale band of sandy subsoil; then layered sedimentary rock in
+alternating grey and rust bands that stay roughly horizontal all the way round the mass, tilting
+only gently, so the eye can follow one band across the whole island; below that a zone of coarse
+broken stone; and from the lowest point a few long roots and one thin thread of water falling and
+dispersing into vapour before it reaches the bottom of the frame.
+
+Composition: the island sits slightly above centre and takes about half the frame width, with the
+lighthouse breaking into the upper third. The camera is below the level of the island's top surface
+and looks slightly up, so the section is well seen. Behind it, open sky fills the entire frame — a
+bank of tall cumulus to the right catching light along its upper edge, thin haze low down — and
+there is no land, no sea and no horizon line anywhere. The island is the only solid thing in the
+picture.
+
+Light: a low sun from the upper right. The lighthouse and the pines throw long shadows to the left
+across the grass; the right flank of the rock section is warmly lit; the left flank falls into cool
+shadow; and the underside is not black but filled with soft blue bounced skylight.
+
+Style: realistic rendering held back from spectacle — believable rock and vegetation, natural
+colour, no glow, no debris orbiting the island, no figures.
+```
+
+**KA**
+```
+დაარენდერე ზღვისპირა პატარა კონცხი, რომელიც მიწიდან ამოგლეჯილია და ღია ცაში ჰკიდია: შუქურა ისევ
+მის თავზე დგას, ქვემოდან კი ის მიწა ჰკიდია, საიდანაც კონცხი მოწყდა. ვერტიკალური კადრი 4:5,
+რენდერი 2K.
+
+კუნძული: მიწის არასწორი ფორმის ნატეხი, ზემოდან დაახლოებით 40 მეტრი განივად, ქვემოთ კი თანდათან
+ვიწროვდება და ზედაპირიდან 60 მეტრზე დაღარულ წვერში გადადის. ზედა ზედაპირი უვნებელია — დაბალი
+ზღვისპირა ბალახი, ხრეშის ბილიკი, მოთეთრებული ქვის შუქურა შავი ფარნის თავით, დაბალი, უდუღაბო ქვის
+გალავანი და 2 ფიჭვი, ქარისგან ერთი მიმართულებით მოხრილი. ზემოთ არაფერი მიანიშნებს, რომ რაღაც
+არაჩვეულებრივი მოხდა — ეს შეგნებულია: ილუზია სწორედ იმიტომ მუშაობს, რომ ზედაპირი სრულიად ჩვეულებრივ
+გამოიყურება.
+
+ქვედა მხარე სურათის მთავარი თემაა და გეოლოგიურ ჭრილად უნდა იკითხებოდეს და არა ქვის უფორმო
+ნატეხად. ზემოდან ქვემოთ: 15 სანტიმეტრი მუქი, ფესვებით გაბმული ზედა ნიადაგი, საიდანაც ბალახის
+ფესვები ჭრილიდან გამოკიდებულია; ღია, ქვიშიანი გრუნტის ზოლი; შემდეგ ფენოვანი დანალექი ქანი
+ნაცრისფერი და მოწითალო ზოლების მონაცვლეობით, რომლებიც მთელ მასაზე დაახლოებით ჰორიზონტალური რჩება
+და მხოლოდ ოდნავაა დახრილი — მზერას ერთი ზოლი მთელ კუნძულზე გასდევს; ქვემოთ მსხვილი, დამსხვრეული
+ქვის ზონა; ყველაზე დაბალი წერტილიდან კი რამდენიმე გრძელი ფესვი და წყლის ერთი თხელი ძაფი ჩამოდის და
+კადრის ქვედა კიდემდე ორთქლად იფანტება.
+
+კომპოზიცია: კუნძული ცენტრზე ოდნავ მაღლა ზის და კადრის სიგანის დაახლოებით ნახევარს იკავებს, შუქურა
+კი ზედა მესამედში ჭრის. კამერა კუნძულის ზედაპირზე დაბლაა და ოდნავ მაღლა იყურება, რომ ჭრილი კარგად
+ჩანდეს. უკან მთელ კადრს ღია ცა ავსებს — მარჯვნივ მაღალი გროვა-ღრუბლების ზოლი, ზედა კიდეზე შუქით
+შემოვლებული, ქვემოთ კი თხელი ნისლი; არსად არ ჩანს არც ხმელეთი, არც ზღვა და არც ჰორიზონტის ხაზი.
+კუნძული სურათში ერთადერთი მყარი საგანია.
+
+განათება: დაბალი მზე ზედა მარჯვენა მხრიდან. შუქურა და ფიჭვები ბალახზე გრძელ ჩრდილს მარცხნივ
+აგდებს; ქანის ჭრილის მარჯვენა მხარე თბილადაა განათებული; მარცხენა მხარე ცივ ჩრდილში ჩადის; ქვედა
+მხარე კი შავი არ არის — მას ცის რბილი, მოლურჯო არეკვლა ავსებს.
+
+სტილი: რეალისტური რენდერი ეფექტებზე უარის თქმით — დამაჯერებელი ქანი და მცენარეულობა, ბუნებრივი
+ფერი, ნათების ეფექტის გარეშე, კუნძულის გარშემო მოფრინავი ნატეხების გარეშე, ფიგურების გარეშე.
+---
+Render a small coastal headland lifted out of the earth and left hanging in open sky, the lighthouse
+still standing on top of it and the ground it was cut from hanging underneath. 4:5 vertical, rendered at
+2K.
+The island: an irregular chunk of land about forty metres across at the top, tapering downward to a
+ragged point some sixty metres below the surface. The top surface is intact and undisturbed — cropped sea
+grass, a gravel path, a whitewashed stone lighthouse with a black lantern housing, a low drystone wall
+and two wind-bent pines leaning away from the same side. Nothing up there suggests that anything unusual
+has happened, and that is deliberate: the illusion works because the surface looks entirely ordinary.
+The underside is the subject of the picture and it must read as a geological section, not as a generic
+lump of rock. From the top down: fifteen centimetres of dark root-bound topsoil with grass roots trailing
+out of the cut; a pale band of sandy subsoil; then layered sedimentary rock in alternating grey and rust
+bands that stay roughly horizontal all the way round the mass, tilting only gently, so the eye can follow
+one band across the whole island; below that a zone of coarse broken stone; and from the lowest point a
+few long roots and one thin thread of water falling and dispersing into vapour before it reaches the
+bottom of the frame.
+Composition: the island sits slightly above centre and takes about half the frame width, with the
+lighthouse breaking into the upper third. The camera is below the level of the island's top surface and
+looks slightly up, so the section is well seen. Behind it, open sky fills the entire frame — a bank of
+tall cumulus to the right catching light along its upper edge, thin haze low down — and there is no land,
+no sea and no horizon line anywhere. The island is the only solid thing in the picture.
+Light: a low sun from the upper right. The lighthouse and the pines throw long shadows to the left across
+the grass; the right flank of the rock section is warmly lit; the left flank falls into cool shadow; and
+the underside is not black but filled with soft blue bounced skylight.
+Style: realistic rendering held back from spectacle — believable rock and vegetation, natural colour, no
+glow, no debris orbiting the island, no figures.
+```
+
+---
+
+### NB-44 · Tbilisi landmarks as a 3D cartoon map
+`nano-banana` `gemini` — map, 3d illustration, georgian text
+
+**EN**
+```
+Build a three-dimensional cartoon map of Tbilisi's landmarks — the kind printed on a tourist
+placemat. 16:9 horizontal, rendered at 2K. This is a stylised illustration, not a real map and not
+an aerial photograph.
+
+The ground plane is deliberately simplified and carries almost nothing: a broad pale sand-coloured
+plate; the Mtkvari drawn as a smooth blue-grey ribbon curving through it from the upper right to
+the lower left; one green mass for the wooded ridge on the west side; three or four tan ribbons for
+the main roads; and a scatter of simple round trees. No small buildings, no street grid, no contour
+lines. Everything that is not a landmark stays flat, quiet and low.
+
+On that plate, stand the landmarks as chunky three-dimensional models seen from a high
+three-quarter angle, each one rendered far larger than its true size relative to the ground — a
+single building is the size of a city block, and that exaggeration is the whole idea. Simplify each
+model down to its most recognisable silhouette, with rounded edges and no fine detail. Place, from
+the upper left to the lower right: the fortress on the ridge with its stone towers and curtain
+wall; the funicular line climbing the wooded slope to the tall thin television mast at the top; the
+cluster of low brick domes of the sulphur baths by the river; the tall cathedral with its stepped
+gold dome on the east bank; a glass and steel footbridge arching over the water; the columned opera
+house beside the main avenue; and the botanical gorge with a small waterfall at the lower left.
+Keep every model upright and turned toward the viewer, even where that is geographically
+imprecise — legibility beats accuracy here.
+
+Each landmark stands on a small oval base raised slightly off the ground plate, with a soft contact
+shadow under it.
+
+Labels: place one blank label plate beside each of the seven landmarks and one larger blank plate
+across the top centre of the frame. Each plate is a flat rounded rectangle in off-white with a thin
+grey border and a small pointer aimed at the landmark it belongs to. Leave every plate completely
+empty — no lettering, no placeholder text, no squiggles standing in for words.
+
+Light: one high source from the upper left. Every model's shadow falls down and to the right at the
+same angle and lies flat on the ground plate.
+
+Style: friendly toy-like 3D illustration, matte surfaces, a warm palette of terracotta, cream, sage
+and dusty blue, no photorealism, no people, no vehicles, no logos of any kind.
+
+# The Georgian names are meant to be set over the blank plates afterwards in a design tool — that is
+# why this prompt asks for the plates to stay empty. If you do ask the model to letter them, expect
+# the Georgian letterforms to come back needing repair and check the result letter by letter.
+```
+
+**KA**
+```
+ააგე თბილისის ღირსშესანიშნაობების სამგანზომილებიანი, მულტიპლიკაციური რუკა — ისეთი, ტურისტულ
+სასუფრე ფურცელზე რომ ბეჭდავენ. ჰორიზონტალური კადრი 16:9, რენდერი 2K. ეს სტილიზებული ილუსტრაციაა
+და არა ნამდვილი რუკა ან საჰაერო ფოტო.
+
+მიწის სიბრტყე შეგნებულად გამარტივებულია და თითქმის არაფერი აქვს: ფართო, ღია ქვიშისფერი ფირფიტა;
+მტკვარი გლუვი, მოლურჯო-ნაცრისფერი ლენტით, ზედა მარჯვენა კუთხიდან ქვედა მარცხენისკენ მოხრილი;
+დასავლეთით ტყიანი ქედის ერთი მწვანე მასა; 4 მოყავისფრო ლენტი მთავარი გზებისთვის; და მიმოფანტული,
+მარტივი, მრგვალი ხეები. პატარა შენობების, ქუჩების ბადისა და ჰორიზონტალების გარეშე. ყველაფერი,
+რაც ღირსშესანიშნაობა არ არის, ბრტყელი, მშვიდი და დაბალი რჩება.
+
+ამ ფირფიტაზე ღირსშესანიშნაობები მასიური, სამგანზომილებიანი მაკეტებივით დააყენე, მაღლიდან სამი
+მეოთხედის კუთხით დანახული; თითოეული მიწასთან შედარებით ნამდვილზე ბევრად დიდია — ერთი შენობა მთელი
+კვარტლის ზომისაა და სწორედ ეს გაზვიადებაა მთავარი იდეა. ყოველი მაკეტი მის ყველაზე ამოსაცნობ
+სილუეტამდე გაამარტივე, მომრგვალებული წიბოებით და წვრილი დეტალების გარეშე. დაალაგე ზედა მარცხენა
+კუთხიდან ქვედა მარჯვენისკენ: ქედზე მდგარი ციხე თავისი ქვის კოშკებითა და გალავნით; ფუნიკულიორის
+ხაზი, რომელიც ტყიან ფერდობზე მაღლა, სატელევიზიო ანძამდე ადის; მდინარესთან გოგირდის აბანოების
+დაბალი აგურის გუმბათების გროვა; აღმოსავლეთ ნაპირზე მაღალი ტაძარი საფეხურებიანი ოქროსფერი
+გუმბათით; მინისა და ფოლადის საფეხმავლო ხიდი, წყალზე თაღად გადებული; მთავარ გამზირზე სვეტებიანი
+ოპერის შენობა; და ქვედა მარცხენა კუთხეში ბოტანიკური ხეობა პატარა ჩანჩქერით. ყოველი მაკეტი სწორად
+დგას და მაყურებლისკენაა შემობრუნებული, მაშინაც კი, როცა ეს გეოგრაფიულად ზუსტი არ არის — აქ
+წაკითხვადობა სიზუსტეზე მნიშვნელოვანია.
+
+ყოველი ღირსშესანიშნაობა პატარა ოვალურ კვარცხლბეკზე დგას, მიწის ფირფიტიდან ოდნავ აწეული, ქვეშ
+რბილი, შემხები ჩრდილით.
+
+წარწერების ადგილი: შვიდივე ღირსშესანიშნაობის გვერდით დადე თითო ცარიელი ფირფიტა და კადრის ზედა
+ცენტრში — ერთი უფრო დიდი. ყოველი ფირფიტა ბრტყელი, მომრგვალებულკუთხოვანი, მოთეთრო
+მართკუთხედია თხელი ნაცრისფერი კონტურითა და პატარა მიმთითებლით, რომელიც თავის ღირსშესანიშნაობაზე
+იშვერს. ყველა ფირფიტა სრულიად ცარიელი დატოვე — ასოების, დროებითი ტექსტისა და სიტყვის მაგივრობის
+გამწევი ხაზაკების გარეშე.
+
+განათება: ერთი მაღალი წყარო ზედა მარცხენა მხრიდან. ყოველი მაკეტის ჩრდილი ქვემოთ და მარჯვნივ ეცემა,
+ერთი და იმავე კუთხით, და მიწის ფირფიტაზე ბრტყლად წევს.
+
+სტილი: მეგობრული, სათამაშოსებრი 3D ილუსტრაცია, მქრქალი ზედაპირებით, თბილი პალიტრით — ტერაკოტა,
+კრემისფერი, მწვანე-ნაცრისფერი და მტვრიანი ლურჯი; ფოტორეალიზმის, ადამიანების, ავტომობილებისა და
+ნებისმიერი ლოგოს გარეშე.
+
+# ქართული სახელები ცარიელ ფირფიტებზე შემდეგ, დიზაინის პროგრამაში უნდა დაიდოს — სწორედ ამიტომ
+# ითხოვს ეს პრომპტი მათ ცარიელს. თუ მაინც სთხოვ მოდელს წარწერების დაწერას, ქართული ასოები დიდი
+# ალბათობით შესასწორებელი გამოვა — შედეგი ასოების დონეზე შეამოწმე.
+---
+Build a three-dimensional cartoon map of Tbilisi's landmarks — the kind printed on a tourist placemat.
+16:9 horizontal, rendered at 2K. This is a stylised illustration, not a real map and not an aerial
+photograph.
+The ground plane is deliberately simplified and carries almost nothing: a broad pale sand-coloured plate;
+the Mtkvari drawn as a smooth blue-grey ribbon curving through it from the upper right to the lower left;
+one green mass for the wooded ridge on the west side; three or four tan ribbons for the main roads; and a
+scatter of simple round trees. No small buildings, no street grid, no contour lines. Everything that is
+not a landmark stays flat, quiet and low.
+On that plate, stand the landmarks as chunky three-dimensional models seen from a high three-quarter
+angle, each one rendered far larger than its true size relative to the ground — a single building is the
+size of a city block, and that exaggeration is the whole idea. Simplify each model down to its most
+recognisable silhouette, with rounded edges and no fine detail. Place, from the upper left to the lower
+right: the fortress on the ridge with its stone towers and curtain wall; the funicular line climbing the
+wooded slope to the tall thin television mast at the top; the cluster of low brick domes of the sulphur
+baths by the river; the tall cathedral with its stepped gold dome on the east bank; a glass and steel
+footbridge arching over the water; the columned opera house beside the main avenue; and the botanical
+gorge with a small waterfall at the lower left. Keep every model upright and turned toward the viewer,
+even where that is geographically imprecise — legibility beats accuracy here.
+Each landmark stands on a small oval base raised slightly off the ground plate, with a soft contact
+shadow under it.
+Labels: place one blank label plate beside each of the seven landmarks and one larger blank plate across
+the top centre of the frame. Each plate is a flat rounded rectangle in off-white with a thin grey border
+and a small pointer aimed at the landmark it belongs to. Leave every plate completely empty — no
+lettering, no placeholder text, no squiggles standing in for words.
+Light: one high source from the upper left. Every model's shadow falls down and to the right at the same
+angle and lies flat on the ground plate.
+Style: friendly toy-like 3D illustration, matte surfaces, a warm palette of terracotta, cream, sage and
+dusty blue, no photorealism, no people, no vehicles, no logos of any kind.
+```
+
+---
+
+### NB-45 · Torn paper collage — an image through a ragged tear
+`nano-banana` `gemini` — collage, paper, texture
+
+**EN**
+```
+Make a single image of a photograph showing through a hand-torn hole in a sheet of paper. 1:1
+square, rendered at 2K. There are two layers here and the difference between them is the whole
+subject.
+
+The top layer is a full-frame sheet of heavy grey-blue laid paper filling the image edge to edge,
+photographed flat and straight on. It has a visible laid texture of fine parallel lines, a slightly
+uneven cool tone and one soft crease running down the left quarter. This layer is matte and
+absorbs light rather than reflecting it.
+
+Through it, an opening about a third of the frame wide sits just right of centre and a little low.
+It was torn by hand, not cut: the outline is irregular, with two long ragged runs, one short
+straight section where the tear followed the grain of the sheet, and a small pinched notch at the
+bottom. All the way round that edge the paper's core shows as a pale cream line roughly two
+millimetres wide, with individual fibres lifting away from it and a few of them detached and
+standing clear of the surface.
+
+Along the upper edge of the opening the torn paper has lifted into a flap that curls toward the
+viewer by about a centimetre. Under that flap lies a soft shadow, deepest where the flap stands
+highest and fading to nothing where the paper settles flat again. The flap's underside is the same
+cream core colour and catches a little light.
+
+The lower layer, seen through the opening, is a photograph: a sunlit pebble beach with a shallow
+wave drawing back over wet stones — sharp, saturated and warm. It must read as a separate, deeper
+surface sitting a few millimetres below the paper, and the torn edge casts a thin shadow down onto
+it along the top and the left of the opening.
+
+Light: one soft source from the upper left, serving both layers. It grazes the paper so the laid
+texture and the crease are clearly visible, and its direction matches the direction of the sun in
+the photograph underneath, so the two layers belong to the same room even though they are different
+images.
+
+Style: studio still-life photography of a real physical object, natural colour, no digital collage
+effects, no drop shadow added around the outside of the frame, nothing visible beyond the paper.
+```
+
+**KA**
+```
+შექმენი ერთი სურათი: ქაღალდის ფურცელში ხელით ამოგლეჯილ ხვრელში ფოტო მოჩანს. კვადრატული კადრი 1:1,
+რენდერი 2K. აქ 2 ფენაა და მთავარი თემა სწორედ მათ შორის განსხვავებაა.
+
+ზედა ფენა მძიმე, მოლურჯო-ნაცრისფერი, ვერჟეიანი ქაღალდის ფურცელია, რომელიც კადრს კიდიდან კიდემდე
+ავსებს და ბრტყლად, პირდაპირაა გადაღებული. მას აქვს წვრილი პარალელური ხაზების ხილული ფაქტურა, ოდნავ
+არათანაბარი, ცივი ტონი და მარცხენა მეოთხედში ერთი რბილი ნაკეცი. ეს ფენა მქრქალია და შუქს ირეკლავს
+კი არა, ისრუტავს.
+
+მასში, ცენტრიდან ოდნავ მარჯვნივ და ოდნავ დაბლა, კადრის სიგანის დაახლოებით მესამედის ხვრელია. ის
+ხელით არის ამოგლეჯილი და არა ამოჭრილი: კონტური არათანაბარია — 2 გრძელი, დაფლეთილი მონაკვეთი, ერთი
+მოკლე სწორი უბანი, სადაც გლეჯამ ფურცლის ბოჭკოს გაჰყვა, და ქვემოთ პატარა, მოჩქმეტილი ღარი. მთელ ამ
+კიდეზე ქაღალდის შიდა ფენა ღია კრემისფერ, დაახლოებით 2 მილიმეტრის სიგანის ხაზად მოჩანს; მისგან
+ცალკეული ბოჭკო ცილდება და რამდენიმე მათგანი ზედაპირს მოშორებული, ჰაერში დგას.
+
+ხვრელის ზედა კიდეზე მოგლეჯილი ქაღალდი ფრთად აიწია და მაყურებლისკენ დაახლოებით სანტიმეტრით
+იხრება. ამ ფრთის ქვეშ რბილი ჩრდილი წევს — ყველაზე ღრმა იქ, სადაც ფრთა მაღლა დგას, და ნელა ქრება
+იქ, სადაც ქაღალდი ისევ ბრტყლად ჯდება. ფრთის შიდა მხარე იმავე კრემისფერია და ცოტა შუქს იჭერს.
+
+ქვედა ფენა, რომელიც ხვრელში მოჩანს, ფოტოა: მზიანი კენჭებიანი სანაპირო, სადაც არაღრმა ტალღა სველ
+ქვებზე უკან იწევს — მკვეთრი, მაძღარი და თბილი. ის ცალკე, უფრო ღრმა ზედაპირად უნდა იკითხებოდეს,
+ქაღალდიდან რამდენიმე მილიმეტრით ქვემოთ; მოგლეჯილი კიდე ხვრელის ზემოთა და მარცხენა მხარეს მასზე
+თხელ ჩრდილს აგდებს.
+
+განათება: ერთი რბილი წყარო ზედა მარცხენა მხრიდან, ორივე ფენისთვის საერთო. ის ქაღალდს ირიბად ეცემა,
+ამიტომ ვერჟეს ფაქტურა და ნაკეცი კარგად ჩანს; მისი მიმართულება ქვემოთ მდებარე ფოტოზე მზის
+მიმართულებას ემთხვევა — ორი სხვადასხვა გამოსახულება ერთსა და იმავე ოთახს ეკუთვნის.
+
+სტილი: ნამდვილი ფიზიკური საგნის სტუდიური ნატურმორტი, ბუნებრივი ფერი, ციფრული კოლაჟის ეფექტების
+გარეშე, კადრის გარშემო დამატებული ჩრდილის გარეშე; ქაღალდს გარეთ არაფერი ჩანს.
+---
+Make a single image of a photograph showing through a hand-torn hole in a sheet of paper. 1:1 square,
+rendered at 2K. There are two layers here and the difference between them is the whole subject.
+The top layer is a full-frame sheet of heavy grey-blue laid paper filling the image edge to edge,
+photographed flat and straight on. It has a visible laid texture of fine parallel lines, a slightly uneven
+cool tone and one soft crease running down the left quarter. This layer is matte and absorbs light rather
+than reflecting it.
+Through it, an opening about a third of the frame wide sits just right of centre and a little low. It was
+torn by hand, not cut: the outline is irregular, with two long ragged runs, one short straight section
+where the tear followed the grain of the sheet, and a small pinched notch at the bottom. All the way round
+that edge the paper's core shows as a pale cream line roughly two millimetres wide, with individual fibres
+lifting away from it and a few of them detached and standing clear of the surface.
+Along the upper edge of the opening the torn paper has lifted into a flap that curls toward the viewer by
+about a centimetre. Under that flap lies a soft shadow, deepest where the flap stands highest and fading
+to nothing where the paper settles flat again. The flap's underside is the same cream core colour and
+catches a little light.
+The lower layer, seen through the opening, is a photograph: a sunlit pebble beach with a shallow wave
+drawing back over wet stones — sharp, saturated and warm. It must read as a separate, deeper surface
+sitting a few millimetres below the paper, and the torn edge casts a thin shadow down onto it along the
+top and the left of the opening.
+Light: one soft source from the upper left, serving both layers. It grazes the paper so the laid texture
+and the crease are clearly visible, and its direction matches the direction of the sun in the photograph
+underneath, so the two layers belong to the same room even though they are different images.
+Style: studio still-life photography of a real physical object, natural colour, no digital collage
+effects, no drop shadow added around the outside of the frame, nothing visible beyond the paper.
+```
+
+---
+
+### NB-46 · Recursive image-in-image — a print held up to its own view
+`nano-banana` `gemini` — recursive, composite, alignment
+
+**EN**
+```
+Photograph a hand holding a small print up against the view the print was made from, so that the
+print continues the landscape behind it. 3:2 horizontal, rendered at 2K.
+
+The scene: a gravel road running away from camera between two rows of tall poplars, a low stone
+wall along the right-hand verge, a ridge of hills closing the distance and a wide sky with thin
+cloud. Late afternoon, warm light coming from the left.
+
+In the lower right of the frame a forearm and hand enter from the right edge and hold a matte
+photographic print at arm's length. The print is about a quarter of the frame wide and its edges
+are parallel to the edges of the photograph — not tilted. It is held by the thumb at its lower
+right corner with two fingers behind it, and no finger crosses onto the printed image.
+
+The alignment rule is what makes this picture work, so treat it as binding. The print shows the
+same view from the same position, and every line that crosses its edge must meet its continuation
+outside the print at the same height in the frame, at the same angle and at the same scale. The
+horizon inside the print sits at exactly the same height as the horizon outside it. The right-hand
+verge of the road, the top of the stone wall and the line of poplar trunks each pass behind the
+print and reappear on the other side without a step, a kink or a change of thickness. If any of
+those lines is offset where it crosses the print's edge, the image has failed and nothing else
+about it matters.
+
+What gives the print away, and only this: a white border about four millimetres wide on all four
+sides; a slightly cool cast and one step less saturation than the live scene; a faint sheen where
+the light catches its surface at a glancing angle; and a soft shadow cast by the print down onto
+the hand below it.
+
+Depth of field: focus on the print, so the poplars in the middle distance are gently soft and the
+ridge softer still, while the print itself and the fingers are sharp.
+
+Style: natural-light documentary photography, 50mm equivalent, f/2.8, natural colour, fine grain.
+No face is visible and there is nobody else in the frame.
+```
+
+**KA**
+```
+გადაიღე კადრი, სადაც ხელს პატარა ფოტოანაბეჭდი უჭირავს იმ ხედის წინ, საიდანაც ეს ანაბეჭდი
+გადაიღეს — ისე, რომ ანაბეჭდი უკანა პეიზაჟს აგრძელებს. ჰორიზონტალური კადრი 3:2, რენდერი 2K.
+
+სცენა: ხრეშის გზა კამერიდან შორდება და მაღალი ალვის ხეების 2 რიგს შორის მიდის; მარჯვენა
+გვერდულაზე დაბალი ქვის კედელი; სიშორეს გორაკების ქედი კეტავს; ზემოთ ფართო ცა თხელი ღრუბლით.
+გვიანი შუადღე, თბილი შუქი მარცხნიდან.
+
+კადრის ქვედა მარჯვენა ნაწილში მარჯვენა კიდიდან წინამხარი და ხელი შემოდის და მქრქალ ფოტოანაბეჭდს
+გაწვდილ ხელზე იჭერს. ანაბეჭდი კადრის სიგანის დაახლოებით მეოთხედია და მისი კიდეები კადრის კიდეების
+პარალელურია — დახრილი არ არის. ცერით ქვედა მარჯვენა კუთხეშია დაჭერილი, უკან კი 2 თითია; არცერთი
+თითი დაბეჭდილ გამოსახულებაზე არ გადადის.
+
+სურათს გასწორების წესი ამუშავებს — ეს სავალდებულოა. ანაბეჭდზე იგივე ხედია, იმავე წერტილიდან, და
+ყოველი ხაზი, რომელიც ანაბეჭდის კიდეს კვეთს, გარეთ თავის გაგრძელებას უნდა შეხვდეს კადრში იმავე
+სიმაღლეზე, იმავე კუთხით და იმავე მასშტაბით. ანაბეჭდის შიგნით ჰორიზონტი ზუსტად იმავე სიმაღლეზეა,
+რაზეც გარეთ. გზის მარჯვენა გვერდულა, ქვის კედლის ზედა ხაზი და ალვის ხეების ღეროების ხაზი ანაბეჭდს
+უკან გაივლის და მეორე მხარეს ისე გამოჩნდება, რომ არსად იყოს საფეხური, გადატეხვა ან სისქის ცვლილება.
+თუ რომელიმე ეს ხაზი ანაბეჭდის კიდესთან გადახრილია, სურათი წარუმატებელია და დანარჩენს მნიშვნელობა
+აღარ აქვს.
+
+რით მოჩანს, რომ ეს ანაბეჭდია — მხოლოდ ამით: ოთხივე მხარეს დაახლოებით 4 მილიმეტრის სიგანის თეთრი
+არშია; ცოცხალ სცენასთან შედარებით ოდნავ ცივი ტონი და ერთი საფეხურით ნაკლები სიხასხასე; სუსტი
+ბზინვა იქ, სადაც შუქი მის ზედაპირს ირიბად ეცემა; და რბილი ჩრდილი, რომელსაც ანაბეჭდი ქვემოთ, ხელზე
+აგდებს.
+
+სიღრმის ველი: ფოკუსი ანაბეჭდზეა, ამიტომ შუა პლანის ალვის ხეები ოდნავ რბილია, ქედი კიდევ უფრო
+რბილი, თავად ანაბეჭდი და თითები კი მკვეთრი.
+
+სტილი: ბუნებრივ შუქზე გადაღებული დოკუმენტური ფოტო, 50 მმ ექვივალენტი, f/2.8, ბუნებრივი ფერი,
+წვრილი მარცვალი. სახე არსად ჩანს და კადრში სხვა არავინაა.
+---
+Photograph a hand holding a small print up against the view the print was made from, so that the print
+continues the landscape behind it. 3:2 horizontal, rendered at 2K.
+The scene: a gravel road running away from camera between two rows of tall poplars, a low stone wall
+along the right-hand verge, a ridge of hills closing the distance and a wide sky with thin cloud. Late
+afternoon, warm light coming from the left.
+In the lower right of the frame a forearm and hand enter from the right edge and hold a matte
+photographic print at arm's length. The print is about a quarter of the frame wide and its edges are
+parallel to the edges of the photograph — not tilted. It is held by the thumb at its lower right corner
+with two fingers behind it, and no finger crosses onto the printed image.
+The alignment rule is what makes this picture work, so treat it as binding. The print shows the same view
+from the same position, and every line that crosses its edge must meet its continuation outside the print
+at the same height in the frame, at the same angle and at the same scale. The horizon inside the print
+sits at exactly the same height as the horizon outside it. The right-hand verge of the road, the top of
+the stone wall and the line of poplar trunks each pass behind the print and reappear on the other side
+without a step, a kink or a change of thickness. If any of those lines is offset where it crosses the
+print's edge, the image has failed and nothing else about it matters.
+What gives the print away, and only this: a white border about four millimetres wide on all four sides; a
+slightly cool cast and one step less saturation than the live scene; a faint sheen where the light catches
+its surface at a glancing angle; and a soft shadow cast by the print down onto the hand below it.
+Depth of field: focus on the print, so the poplars in the middle distance are gently soft and the ridge
+softer still, while the print itself and the fingers are sharp.
+Style: natural-light documentary photography, 50mm equivalent, f/2.8, natural colour, fine grain. No face
+is visible and there is nobody else in the frame.
+```
+
+---
+
+### NB-47 · Product on an LED billboard, Pekini Avenue after rain
+`nano-banana` `gemini` — mockup, billboard, night composite
+
+**EN**
+```
+Build a night mockup of a product on a large LED billboard above Pekini Avenue in Tbilisi, after
+rain. 16:9 horizontal, rendered at 2K. Treat it as a composite that has to survive being looked at
+closely, not as a glowing rectangle pasted onto a street photograph.
+
+The board: a landscape LED screen roughly eight metres wide, mounted on the flank of a late-Soviet
+apartment block about four storeys up, with a visible steel frame around it and a maintenance
+walkway along its bottom edge.
+
+Viewing angle: the camera stands on the pavement on the opposite side of the avenue, about twenty
+degrees off the screen's axis and well below it. The screen is therefore seen foreshortened — the
+near edge is taller than the far edge, the horizontal lines of the frame converge toward the far
+side, and the panel's brightness falls off gently toward that far edge, because LED panels are
+directional and do not read as evenly bright from an angle.
+
+Screen structure, and it must be visible at this distance: the image on the screen is made of
+discrete LED dots on a regular grid with dark gaps between them, the dot pitch coarse enough to
+read as texture rather than as smooth pixels. Give it one faint horizontal band of slightly
+different brightness across the middle, as real panels have, and a soft moiré where the dot grid
+meets the camera's sensor. The blacks on the screen are not true black but a dark grey lifted by
+the panel's own glow.
+
+What is on the screen: an invented product image only — a plain amber glass bottle standing on a
+deep teal field, lit from its left, with a soft gradient behind it. Leave the lower fifth of the
+screen as an empty flat teal band. No brand name, no logo, no wordmark and no lettering of any kind
+anywhere on the screen. Every other sign, shopfront and vehicle in the frame is likewise free of
+readable text and free of logos.
+
+The light the screen throws into the street is what makes the composite believable, so build it
+deliberately: a teal and amber wash across the wet asphalt directly below and slightly toward
+camera, weakening with distance; a long smeared reflection of the whole board in the standing water
+of the road, broken by ripples and by the ruts of tyre tracks; teal rim light along the wet kerb
+and on the roofs and bonnets of two parked cars; a cool cast on the lower half of the building
+opposite; and a faint haze in the air where the light passes through it.
+
+Everything else in the street stays dark and ordinary: sodium-orange street lamps much warmer than
+the screen, a few lit apartment windows, bare plane trees, and no pedestrian close enough to be
+recognisable.
+
+Style: night urban photography, 35mm equivalent, tripod, long exposure, natural colour, no lens
+flare added and no artificial bloom around the screen beyond what the haze itself produces.
+```
+
+**KA**
+```
+ააგე ღამის მაკეტი: პროდუქტი დიდ LED-ეკრანზე თბილისში, პეკინის გამზირზე, წვიმის შემდეგ.
+ჰორიზონტალური კადრი 16:9, რენდერი 2K. ეს სარეკლამო მაკეტირების სამუშაოა — ისეთი მონტაჟი, რომელმაც
+ახლოდან დათვალიერებას უნდა გაუძლოს და არა ქუჩის ფოტოზე მიწებებული მბზინავი მართკუთხედი.
+
+ფარი: ჰორიზონტალური LED-ეკრანი, დაახლოებით 8 მეტრი სიგანით, გვიანსაბჭოური საცხოვრებელი კორპუსის
+გვერდით კედელზე, დაახლოებით მე-4 სართულის სიმაღლეზე; გარშემო ხილული ფოლადის კარკასი, ქვედა კიდეზე
+კი მომსახურების ბაქანი.
+
+დაკვირვების კუთხე: კამერა გამზირის მოპირდაპირე მხარეს, ტროტუარზე დგას, ეკრანის ღერძიდან
+დაახლოებით 20 გრადუსით გადახრილი და მასზე ბევრად დაბლა. ამიტომ ეკრანი შემოკლებულად ჩანს — ახლო
+კიდე უფრო მაღალია, ვიდრე შორეული; კარკასის ჰორიზონტალური ხაზები შორეული მხარისკენ უახლოვდება
+ერთმანეთს; ეკრანის სიკაშკაშე კი შორეული კიდისკენ ნელა ეცემა, რადგან LED-პანელი მიმართულია და
+ირიბად არათანაბრად ანათებს.
+
+ეკრანის სტრუქტურა და ის ამ მანძილიდან ხილული უნდა იყოს: გამოსახულება შედგება ცალკეული LED-წერტილისგან,
+რომლებიც წესიერ ბადეზე დგას და მათ შორის მუქი ღრიჭოებია; წერტილებს შორის ბიჯი იმდენად მსხვილია, რომ
+ფაქტურად იკითხებოდეს და არა გლუვ პიქსელად. შუაში ჩაუტარე ერთი სუსტი ჰორიზონტალური ზოლი ოდნავ
+განსხვავებული სიკაშკაშით, როგორც ნამდვილ პანელს აქვს, და რბილი მუარე იქ, სადაც ბადე კამერის მატრიცას
+ხვდება. ეკრანზე შავი ნამდვილი შავი არ არის — ის მუქი ნაცრისფერია, თავად პანელის ნათებით აწეული.
+
+რა არის ეკრანზე: მხოლოდ გამოგონილი პროდუქტის გამოსახულება — ქარვისფერი მინის უბრალო ბოთლი მუქ
+ზურმუხტისფერ-ცისფერ ფონზე, მარცხნიდან განათებული, უკან რბილი გრადიენტით. ეკრანის ქვედა მეხუთედი
+დატოვე ცარიელ, ერთფეროვან ზოლად. ეკრანზე არსად არ იყოს არც ბრენდის სახელი, არც ლოგო, არც
+სავაჭრო ნიშანი და არც რაიმე წარწერა. კადრში ყველა სხვა აბრა, ვიტრინა და ავტომობილიც ასევე
+წაკითხვადი ტექსტისა და ლოგოს გარეშეა.
+
+მონტაჟს დამაჯერებლობას ქუჩაში გადმოსული შუქი ანიჭებს, ამიტომ ის შეგნებულად ააგე: ზურმუხტისფერი და
+ქარვისფერი ლაქა უშუალოდ ქვემოთ, სველ ასფალტზე, კამერისკენ ოდნავ გადმოწეული და მანძილთან ერთად
+სუსტდება; მთელი ფარის გრძელი, გაზელილი ანარეკლი გზაზე შემდგარ წყალში, ტალღებითა და საბურავების
+ნაკვალევით დაფლეთილი; ზურმუხტისფერი კონტურის შუქი სველ ბორდიურზე და 2 გაჩერებული ავტომობილის
+სახურავსა და კაპოტზე; ცივი ტონი მოპირდაპირე შენობის ქვედა ნახევარზე; და სუსტი ნისლი ჰაერში, სადაც
+შუქი გაივლის.
+
+ქუჩაში დანარჩენი ყველაფერი ბნელი და ჩვეულებრივი რჩება: ნატრიუმის ნარინჯისფერი ფარნები ეკრანზე
+ბევრად თბილი, რამდენიმე განათებული ბინის ფანჯარა, შიშველი ჭადრები და არცერთი ფეხით მოსიარულე
+იმდენად ახლოს, რომ ამოსაცნობი იყოს.
+
+სტილი: ღამის ურბანული ფოტოგრაფია, 35 მმ ექვივალენტი, შტატივი, გრძელი ექსპოზიცია, ბუნებრივი ფერი,
+ობიექტივის ხელოვნური ბრწყინვის გარეშე და ეკრანის გარშემო ხელოვნური შარავანდის გარეშე — გარდა იმისა,
+რასაც თავად ნისლი იძლევა.
+---
+Build a night mockup of a product on a large LED billboard above Pekini Avenue in Tbilisi, after rain.
+16:9 horizontal, rendered at 2K. Treat it as a composite that has to survive being looked at closely, not
+as a glowing rectangle pasted onto a street photograph.
+The board: a landscape LED screen roughly eight metres wide, mounted on the flank of a late-Soviet
+apartment block about four storeys up, with a visible steel frame around it and a maintenance walkway
+along its bottom edge.
+Viewing angle: the camera stands on the pavement on the opposite side of the avenue, about twenty degrees
+off the screen's axis and well below it. The screen is therefore seen foreshortened — the near edge is
+taller than the far edge, the horizontal lines of the frame converge toward the far side, and the panel's
+brightness falls off gently toward that far edge, because LED panels are directional and do not read as
+evenly bright from an angle.
+Screen structure, and it must be visible at this distance: the image on the screen is made of discrete LED
+dots on a regular grid with dark gaps between them, the dot pitch coarse enough to read as texture rather
+than as smooth pixels. Give it one faint horizontal band of slightly different brightness across the
+middle, as real panels have, and a soft moiré where the dot grid meets the camera's sensor. The blacks on
+the screen are not true black but a dark grey lifted by the panel's own glow.
+What is on the screen: an invented product image only — a plain amber glass bottle standing on a deep teal
+field, lit from its left, with a soft gradient behind it. Leave the lower fifth of the screen as an empty
+flat teal band. No brand name, no logo, no wordmark and no lettering of any kind anywhere on the screen.
+Every other sign, shopfront and vehicle in the frame is likewise free of readable text and free of logos.
+The light the screen throws into the street is what makes the composite believable, so build it
+deliberately: a teal and amber wash across the wet asphalt directly below and slightly toward camera,
+weakening with distance; a long smeared reflection of the whole board in the standing water of the road,
+broken by ripples and by the ruts of tyre tracks; teal rim light along the wet kerb and on the roofs and
+bonnets of two parked cars; a cool cast on the lower half of the building opposite; and a faint haze in
+the air where the light passes through it.
+Everything else in the street stays dark and ordinary: sodium-orange street lamps much warmer than the
+screen, a few lit apartment windows, bare plane trees, and no pedestrian close enough to be recognisable.
+Style: night urban photography, 35mm equivalent, tripod, long exposure, natural colour, no lens flare
+added and no artificial bloom around the screen beyond what the haze itself produces.
+```
+
+---
+
+### NB-48 · Pencil wireframe raised to a high-fidelity UI mockup
+`nano-banana` `gemini` — ui, mockup, editing, georgian text
+
+**EN**
+```
+Turn the attached pencil wireframe into a high-fidelity interface mockup. 9:16 vertical, rendered
+at 2K. This is a fidelity upgrade, not a redesign, and that distinction matters more than anything
+else in this brief.
+
+What the sketch contains, top to bottom, so you read it correctly: a status bar scrawl; a header
+row with a back arrow on the left and a circular avatar on the right; a large title line; a
+horizontal row of four small square category tiles, each with a scribbled icon and a short label
+under it; a wide search field with a magnifier at its left end; a vertical list of five result
+cards, each card being a square thumbnail on the left, two lines of text to the right of it and a
+small price block at the far right; and a bottom bar with five evenly spaced icon slots, the second
+of which is circled to mark it as active.
+
+What must stay exactly as drawn: the order of the sections from top to bottom; the number of items
+in every group — 4 category tile, 5 result card, 5 bottom-bar slot; the position of every element
+within its row; the side of the row each element sits on; the relative heights of the sections; and
+the proportions of every block, to within a few percent of the sketch. Do not move, add, remove,
+merge, split or reorder anything. Do not introduce a component that is not in the sketch and do not
+drop one because it looks redundant. Where a part of the sketch is ambiguous, keep its position and
+give it the plainest possible treatment rather than inventing a different component in its place.
+
+What changes is only the fidelity. Replace the pencil lines with clean geometry aligned to an
+8-point grid. Give the cards a white surface, a 12-pixel corner radius and a soft shadow at 8
+percent opacity. Replace the scribbled icons with consistent 24-pixel line icons at a uniform
+1.5-pixel stroke weight. Set the type in a single clean sans-serif at three sizes only — title,
+card heading, secondary line. Fill the thumbnails with soft neutral grey placeholder blocks. Use
+one accent colour, a muted teal, for the active bottom-bar slot and for the price figures, and
+greys for everything else. Put the whole screen on a very light warm grey background.
+
+Text in the image, spelled exactly as written here: the title is "ახლოს შენთან"; the four category
+labels are "საუზმე", "ფუნთუშა", "ტორტი", "პური"; the search field placeholder is "მოძებნე"; and
+the price block on every card reads "₾ 12". The two text lines inside each card are drawn as
+neutral grey bars of the right length rather than as words.
+
+Style: clean product design mockup, flat, no device frame, no hand holding the phone, no background
+scene, no decorative illustration, no logo.
+
+# Georgian letterforms will very likely come back malformed at these small sizes. The reliable
+# route is to ask for every label area to be left empty as a grey bar as well, and to set the
+# Georgian type in a design tool afterwards — either way, check the result letter by letter.
+```
+
+**KA**
+```
+მიმაგრებული ფანქრის მონახაზი გადააქციე მაღალი სიზუსტის ინტერფეისის მაკეტად. ვერტიკალური კადრი 9:16,
+რენდერი 2K. ეს სიზუსტის ამაღლებაა და არა ხელახალი დიზაინი — ამ ბრიფში ეს განსხვავება ყველაფერზე
+მნიშვნელოვანია.
+
+რა არის მონახაზზე, ზემოდან ქვემოთ, რომ სწორად წაიკითხო: სტატუსის ზოლის ხაზაკი; ზედა რიგი, მარცხნივ
+უკან ისრითა და მარჯვნივ მრგვალი ავატარით; დიდი სათაურის ხაზი; 4 პატარა, კვადრატული კატეგორიის ფილის
+ჰორიზონტალური რიგი, თითოეულზე ნახაზული ხატულა და ქვემოთ მოკლე წარწერა; განიერი საძიებო ველი
+მარცხენა ბოლოში ლუპით; 5 შედეგის ბარათის ვერტიკალური სია, სადაც ყოველი ბარათი მარცხნივ კვადრატული
+მინიატურაა, მის მარჯვნივ 2 ხაზი ტექსტი, ბოლო მარჯვენა მხარეს კი ფასის პატარა ბლოკი; და ქვედა ზოლი
+5 თანაბრად განლაგებული ხატულის ადგილით, სადაც მეორე შემოხაზულია და აქტიურად აღნიშნული.
+
+რა რჩება ზუსტად ისე, როგორც დახატულია: სექციების თანმიმდევრობა ზემოდან ქვემოთ; ელემენტების
+რაოდენობა ყოველ ჯგუფში — 4 კატეგორიის ფილა, 5 შედეგის ბარათი, 5 ქვედა ზოლის ადგილი; ყოველი
+ელემენტის მდებარეობა თავის რიგში; რიგის რომელ მხარესაც ელემენტი ზის; სექციების სიმაღლეთა
+თანაფარდობა; და ყოველი ბლოკის პროპორცია მონახაზთან რამდენიმე პროცენტის სიზუსტით. არაფერი გადაადგილო,
+არაფერი დაამატო, არაფერი ამოიღო, არაფერი გააერთიანო, არაფერი გაყო და თანმიმდევრობა არ შეცვალო.
+არ შემოიტანო კომპონენტი, რომელიც მონახაზზე არ არის, და არ ამოაგდო ისეთი, რომელიც ზედმეტად გეჩვენება.
+სადაც მონახაზი ბუნდოვანია, შეუნარჩუნე ადგილი და ყველაზე მარტივი გადაწყვეტა მიეცი — სხვა კომპონენტი
+არ გამოიგონო.
+
+იცვლება მხოლოდ სიზუსტე. ფანქრის ხაზები შეცვალე სუფთა გეომეტრიით, 8-პიქსელიან ბადეზე გასწორებული.
+ბარათებს მიეცი თეთრი ზედაპირი, 12 პიქსელი მომრგვალება კუთხეებში და რბილი ჩრდილი 8 პროცენტის
+გამჭვირვალობით. ნახაზული ხატულები შეცვალე ერთგვაროვანი, 24-პიქსელიანი ხაზოვანი ხატულებით, შტრიხის
+ერთიანი სისქით — 1.5 პიქსელი. ტექსტი აკრიფე ერთი სუფთა უსერიფო შრიფტით და მხოლოდ 3 ზომით —
+სათაური, ბარათის სათაური, მეორეული ხაზი. მინიატურები შეავსე რბილი, ნეიტრალური ნაცრისფერი ბლოკებით.
+გამოიყენე ერთი აქცენტის ფერი — დაწყნარებული ზურმუხტისფერ-ცისფერი — ქვედა ზოლის აქტიური ადგილისა და
+ფასის ციფრებისთვის, დანარჩენისთვის კი ნაცრისფერი. მთელი ეკრანი დადე ძალიან ღია, თბილ ნაცრისფერ ფონზე.
+
+წარწერა სურათში, ზუსტად ასე: სათაური — „ახლოს შენთან“; 4 კატეგორიის წარწერა — „საუზმე“, „ფუნთუშა“,
+„ტორტი“, „პური“; საძიებო ველის მინიშნება — „მოძებნე“; ყოველი ბარათის ფასის ბლოკი — „₾ 12“.
+ბარათის შიგნით 2 ტექსტის ხაზი სიტყვების ნაცვლად შესაბამისი სიგრძის ნეიტრალური ნაცრისფერი ზოლით
+დახატე.
+
+სტილი: სუფთა პროდუქტის დიზაინის მაკეტი, ბრტყელი, მოწყობილობის კორპუსის გარეშე, ტელეფონის მჭერი
+ხელის გარეშე, ფონური სცენის, დეკორატიული ილუსტრაციისა და ლოგოს გარეშე.
+
+# ამ ზომაზე ქართული ასოები დიდი ალბათობით დამახინჯებული გამოვა. საიმედო გზაა, სთხოვო მოდელს,
+# წარწერის ადგილიც ნაცრისფერ ზოლად დატოვოს ცარიელი და ქართული შრიფტი შემდეგ დიზაინის პროგრამაში
+# დაადო — ორივე შემთხვევაში შედეგი ასოების დონეზე შეამოწმე.
+---
+Turn the attached pencil wireframe into a high-fidelity interface mockup. 9:16 vertical, rendered at 2K.
+This is a fidelity upgrade, not a redesign, and that distinction matters more than anything else in this
+brief.
+What the sketch contains, top to bottom, so you read it correctly: a status bar scrawl; a header row with
+a back arrow on the left and a circular avatar on the right; a large title line; a horizontal row of four
+small square category tiles, each with a scribbled icon and a short label under it; a wide search field
+with a magnifier at its left end; a vertical list of five result cards, each card being a square thumbnail
+on the left, two lines of text to the right of it and a small price block at the far right; and a bottom
+bar with five evenly spaced icon slots, the second of which is circled to mark it as active.
+What must stay exactly as drawn: the order of the sections from top to bottom; the number of items in
+every group — four category tiles, five result cards, five bottom-bar slots; the position of every element
+within its row; the side of the row each element sits on; the relative heights of the sections; and the
+proportions of every block, to within a few percent of the sketch. Do not move, add, remove, merge, split
+or reorder anything. Do not introduce a component that is not in the sketch and do not drop one because it
+looks redundant. Where a part of the sketch is ambiguous, keep its position and give it the plainest
+possible treatment rather than inventing a different component in its place.
+What changes is only the fidelity. Replace the pencil lines with clean geometry aligned to an 8-point
+grid. Give the cards a white surface, a 12-pixel corner radius and a soft shadow at 8 percent opacity.
+Replace the scribbled icons with consistent 24-pixel line icons at a uniform 1.5-pixel stroke weight. Set
+the type in a single clean sans-serif at three sizes only — title, card heading, secondary line. Fill the
+thumbnails with soft neutral grey placeholder blocks. Use one accent colour, a muted teal, for the active
+bottom-bar slot and for the price figures, and greys for everything else. Put the whole screen on a very
+light warm grey background.
+Text in the image, spelled exactly as written here: the title is "ახლოს შენთან"; the four category labels
+are "საუზმე", "ფუნთუშა", "ტორტი", "პური"; the search field placeholder is "მოძებნე"; and the price block
+on every card reads "₾ 12". The two text lines inside each card are drawn as neutral grey bars of the
+right length rather than as words.
+Style: clean product design mockup, flat, no device frame, no hand holding the phone, no background scene,
+no decorative illustration, no logo.
+```
+
+---
+
+### NB-49 · Composition rescue — outpainting a crop back outward
+`nano-banana` `gemini` — outpainting, editing, composition
+
+**EN**
+```
+Extend the attached photograph outward. The original is a 1:1 square frame of a brick arcade along
+one side of a courtyard, shot from under the arcade looking down its length, with the columns
+receding toward a point right of centre. Output a 3:2 horizontal frame.
+
+How the canvas is laid out: the original image keeps its full height and sits centred in the new
+frame, and the extension is added to the left and to the right in equal amounts. Nothing is added
+above or below. The original is not scaled, not rotated, not shifted and not re-cropped.
+
+The existing pixels are not yours to touch. Every part of the original must survive unchanged —
+same position, same colour, same brightness, same sharpness, same grain, same imperfections. Do not
+re-render the arcade, do not clean up the brickwork, do not straighten a column, do not correct the
+exposure, do not remove the dust spot in the upper area, do not sharpen and do not denoise. Do not
+reinterpret anything that is already visible: if a detail is ambiguous in the original, it stays
+ambiguous in the result.
+
+In the new area on both sides, continue the scene as the camera would have recorded it. Three
+things must carry across the seam without a break.
+
+Perspective: the arch line, the floor line and the top of the column plinths all converge toward
+the same vanishing point as in the original. Extend each one along its existing trajectory. Do not
+start a second arcade at a different angle. The columns in the new area sit at the same rhythm as
+the existing ones, spaced by that same perspective, narrowing at the correct rate.
+
+Light: the sun enters from the left at the same angle. Every new shadow falls in the same
+direction, at the same length for its object's height, with the same softness of edge and the same
+colour in its fill as the shadows already in the frame. Brightness at the seam matches on both
+sides closely enough that nothing shows.
+
+Rendering character: the new area carries the same grain size and strength, the same depth of field
+for its distance from the camera, the same slight fall in sharpness toward the corners, the same
+mild vignetting continued outward, and the same colour treatment. It must be impossible to say
+where the original ends.
+
+Add no new subject of interest in the extension. It continues the same arcade, the same courtyard
+wall and the same paving — nothing that pulls the eye away from what was already there, and no
+person, animal or vehicle that was not in the original.
+```
+
+**KA**
+```
+გააფართოვე მიმაგრებული ფოტო. ორიგინალი კვადრატული კადრია, 1:1: ეზოს ერთ მხარეს გაყოლილი აგურის
+არკადა, არკადის ქვემოდან, სიგრძეზე გადაღებული; სვეტები ცენტრიდან მარჯვნივ მდებარე წერტილისკენ
+შორდება. გამოსავალი — ჰორიზონტალური კადრი 3:2.
+
+როგორ ეწყობა ტილო: ორიგინალი სრულ სიმაღლეს ინარჩუნებს და ახალ კადრში ცენტრში ზის; დამატება მარცხნივ
+და მარჯვნივ თანაბარი რაოდენობით ხდება. ზემოთ და ქვემოთ არაფერი ემატება. ორიგინალი არ მასშტაბდება,
+არ ბრუნავს, არ ინაცვლებს და ხელახლა არ კადრირდება.
+
+არსებულ პიქსელს ხელს არ ახლებ. ორიგინალის ყოველი ნაწილი უცვლელი რჩება — იმავე ადგილას, იმავე ფერით,
+იმავე სიკაშკაშით, იმავე სიმკვეთრით, იმავე მარცვლითა და იმავე ნაკლით. არკადა ხელახლა არ დაარენდერო,
+აგურის წყობა არ გაასუფთავო, სვეტი არ გაასწორო, ექსპოზიცია არ შეასწორო, ზედა ნაწილში მტვრის ლაქა არ
+მოაშორო, სიმკვეთრე არ აწიო და ხმაური არ დაავიწროვო. არაფერი გადაიაზრო, რაც უკვე ჩანს: თუ დეტალი
+ორიგინალში ბუნდოვანია, ის შედეგშიც ბუნდოვანი რჩება.
+
+ორივე მხარეს ახალ არეში სცენა ისე გააგრძელე, როგორც კამერა ჩაწერდა. ნაკერზე 3 რამ უნდა გადავიდეს
+გაწყვეტის გარეშე.
+
+პერსპექტივა: თაღების ხაზი, იატაკის ხაზი და სვეტების კვარცხლბეკების ზედა ხაზი იმავე გაქრობის
+წერტილისკენ უახლოვდება ერთმანეთს, რომელიც ორიგინალშია. თითოეული თავისივე ტრაექტორიით გააგრძელე.
+სხვა კუთხით მეორე არკადა არ დაიწყო. ახალ არეში სვეტები იმავე რიტმით დგას, იმავე პერსპექტივით
+განაწილებული, და სწორი ტემპით ვიწროვდება.
+
+განათება: მზე მარცხნიდან შემოდის, იმავე კუთხით. ყოველი ახალი ჩრდილი იმავე მიმართულებით ეცემა, თავისი
+საგნის სიმაღლის შესაბამისი სიგრძით, კიდის იმავე სირბილითა და შევსების იმავე ფერით, როგორიც კადრში
+უკვე არსებულ ჩრდილებს აქვს. ნაკერზე სიკაშკაშე ორივე მხარეს იმდენად ემთხვევა, რომ არაფერი ჩანდეს.
+
+რენდერის ხასიათი: ახალ არეს აქვს იგივე მარცვლის ზომა და სიძლიერე, კამერიდან იმ მანძილის შესაბამისი
+სიღრმის ველი, კუთხეებისკენ სიმკვეთრის იგივე მსუბუქი დაცემა, იგივე სუსტი ვინიეტირება გარეთ
+გაგრძელებული და ფერის იგივე დამუშავება. შეუძლებელი უნდა იყოს იმის თქმა, სად მთავრდება ორიგინალი.
+
+დამატებულ არეში ახალი აქცენტი არ შემოიტანო. იქ იგივე არკადა, იგივე ეზოს კედელი და იგივე მოკირწყლული
+იატაკი გრძელდება — არაფერი, რაც მზერას უკვე არსებულს მოაშორებს, და არც ადამიანი, ცხოველი თუ
+ავტომობილი, რომელიც ორიგინალში არ იყო.
+---
+Extend the attached photograph outward. The original is a 1:1 square frame of a brick arcade along one
+side of a courtyard, shot from under the arcade looking down its length, with the columns receding toward
+a point right of centre. Output a 3:2 horizontal frame.
+How the canvas is laid out: the original image keeps its full height and sits centred in the new frame,
+and the extension is added to the left and to the right in equal amounts. Nothing is added above or below.
+The original is not scaled, not rotated, not shifted and not re-cropped.
+The existing pixels are not yours to touch. Every part of the original must survive unchanged — same
+position, same colour, same brightness, same sharpness, same grain, same imperfections. Do not re-render
+the arcade, do not clean up the brickwork, do not straighten a column, do not correct the exposure, do not
+remove the dust spot in the upper area, do not sharpen and do not denoise. Do not reinterpret anything
+that is already visible: if a detail is ambiguous in the original, it stays ambiguous in the result.
+In the new area on both sides, continue the scene as the camera would have recorded it. Three things must
+carry across the seam without a break.
+Perspective: the arch line, the floor line and the top of the column plinths all converge toward the same
+vanishing point as in the original. Extend each one along its existing trajectory. Do not start a second
+arcade at a different angle. The columns in the new area sit at the same rhythm as the existing ones,
+spaced by that same perspective, narrowing at the correct rate.
+Light: the sun enters from the left at the same angle. Every new shadow falls in the same direction, at
+the same length for its object's height, with the same softness of edge and the same colour in its fill as
+the shadows already in the frame. Brightness at the seam matches on both sides closely enough that nothing
+shows.
+Rendering character: the new area carries the same grain size and strength, the same depth of field for
+its distance from the camera, the same slight fall in sharpness toward the corners, the same mild
+vignetting continued outward, and the same colour treatment. It must be impossible to say where the
+original ends.
+Add no new subject of interest in the extension. It continues the same arcade, the same courtyard wall and
+the same paving — nothing that pulls the eye away from what was already there, and no person, animal or
+vehicle that was not in the original.
+```
+
+---
+
+### NB-50 · Removing a person and an object — clean plate reconstruction
+`nano-banana` `gemini` — cleanup, editing, clean plate
+
+**EN**
+```
+Remove two things from the attached photograph and reconstruct what was behind them. The image is a
+3:2 horizontal shot of a carved stone church façade in flat overcast light. Keep the same 3:2 frame
+and do not re-crop.
+
+Remove exactly two elements: the visitor in the red jacket standing in the lower right third in
+front of the lower carved band, and the green metal rubbish bin at the left edge of the steps.
+Remove each of them completely, including its own contact shadow on the paving and the darker band
+the bin casts up the bottom of the wall.
+
+Put nothing in their place. Do not replace the person with another person, with the shadow of a
+person, with a bag, a bollard, a plant or any other object, and do not add a new element anywhere
+to balance the composition. Both areas become the continuation of the surfaces that surrounded
+them, and nothing more than that.
+
+Reconstruct each gap from its own neighbourhood. Where the person stood, rebuild the paving with
+the same slab size, the same joint width, the same joint direction and the same wear pattern as the
+paving on either side, and continue the carved stone band behind them so that its rhythm of figures
+and its depth of relief run straight through — no repeated motif, no mirrored patch, no smeared
+section. Where the bin stood, continue the step nosing and the plinth line at their existing
+heights. The light stays flat and overcast, so the reconstructed areas carry the same soft, almost
+directionless shading as their neighbours, with no new highlight and no new cast shadow.
+
+Match the surrounding rendering exactly: the same grain size and strength, the same micro-texture
+in the stone — pitting, lichen, old rain staining — the same sharpness for that distance from the
+camera, and the same colour and brightness. A patch that is smoother, cleaner or flatter than the
+stone around it is a failure even when nothing obvious is missing.
+
+Everything outside the two removed areas stays pixel-identical: the whole façade, the carving, the
+doorway, the steps, the sky along the top edge, the framing, the exposure, the white balance and
+the grain. Do not relight the wall, do not straighten the verticals and do not tidy anything else
+while you are in there.
+```
+
+**KA**
+```
+ამოიღე მიმაგრებული ფოტოდან 2 რამ და აღადგინე ის, რაც მათ უკან იყო. სურათი ჰორიზონტალური კადრია,
+3:2: მოჩუქურთმებული ქვის ტაძრის ფასადი მოღრუბლულ, თანაბარ შუქზე. კადრის პროპორცია იგივე რჩება, 3:2,
+და ხელახლა არ დააკადრირო.
+
+ამოიღე ზუსტად 2 ელემენტი: წითელქურთუკიანი ვიზიტორი, რომელიც ქვედა მარჯვენა მესამედში, ქვედა
+ჩუქურთმის ზოლის წინ დგას, და მწვანე ლითონის ნაგვის ურნა კიბის მარცხენა კიდესთან. თითოეული სრულად
+მოაშორე — მათ შორის იატაკზე დაცემული ჩრდილიც და ის მუქი ზოლიც, რომელსაც ურნა კედლის ძირზე აჩენს.
+
+მათ ადგილას არაფერი ჩასვა. ადამიანი არ ჩაანაცვლო სხვა ადამიანით, ადამიანის ჩრდილით, ჩანთით, ბოძით,
+მცენარით ან რაიმე სხვა საგნით და კომპოზიციის გასაწონასწორებლად არსად არ დაამატო ახალი ელემენტი.
+ორივე არე მხოლოდ იმ ზედაპირების გაგრძელება ხდება, რომლებიც მათ გარშემო იყო — და მეტი არაფერი.
+
+ყოველი ხვრელი მისივე გარემოდან აღადგინე. იქ, სადაც ადამიანი იდგა, ხელახლა ააგე მოკირწყლული იატაკი —
+იმავე ფილის ზომით, ნაკერის იმავე სიგანით, ნაკერის იმავე მიმართულებითა და ცვეთის იმავე ნახატით,
+როგორიც ორივე მხარესაა; უკან კი ქვის ჩუქურთმის ზოლი ისე გააგრძელე, რომ ფიგურების რიტმი და რელიეფის
+სიღრმე გაუწყვეტლად გაიაროს — გამეორებული მოტივის, სარკისებური ასლისა და გადაზელილი უბნის გარეშე.
+იქ, სადაც ურნა იდგა, საფეხურის კიდე და ცოკოლის ხაზი მათსავე სიმაღლეზე გააგრძელე. შუქი ისევ თანაბარი
+და მოღრუბლულია, ამიტომ აღდგენილ არეებს იგივე რბილი, თითქმის უმიმართულებო ჩრდილი აქვს, ახალი
+ბზინვისა და ახალი დაცემული ჩრდილის გარეშე.
+
+გარშემო რენდერს ზუსტად მოერგე: იგივე მარცვლის ზომა და სიძლიერე, ქვის იგივე მიკროფაქტურა —
+დაწერტილება, ხავსი, წვიმის ძველი ლაქები — კამერიდან იმ მანძილის შესაბამისი სიმკვეთრე და იგივე ფერი
+და სიკაშკაშე. უბანი, რომელიც გარშემო ქვაზე უფრო გლუვი, უფრო სუფთა ან უფრო ბრტყელია, წარუმატებლობაა
+მაშინაც კი, როცა თვალშისაცემად არაფერი აკლია.
+
+ამოღებული 2 არის გარეთ ყველაფერი პიქსელამდე უცვლელი რჩება: მთელი ფასადი, ჩუქურთმა, კარის ღიობი,
+კიბე, ცა ზედა კიდეზე, კადრირება, ექსპოზიცია, თეთრის ბალანსი და მარცვალი. კედელი ხელახლა არ გაანათო,
+ვერტიკალები არ გაასწორო და სხვა არაფერი მოალამაზო, სანამ იქ მუშაობ.
+---
+Remove two things from the attached photograph and reconstruct what was behind them. The image is a 3:2
+horizontal shot of a carved stone church façade in flat overcast light. Keep the same 3:2 frame and do not
+re-crop.
+Remove exactly two elements: the visitor in the red jacket standing in the lower right third in front of
+the lower carved band, and the green metal rubbish bin at the left edge of the steps. Remove each of them
+completely, including its own contact shadow on the paving and the darker band the bin casts up the bottom
+of the wall.
+Put nothing in their place. Do not replace the person with another person, with the shadow of a person,
+with a bag, a bollard, a plant or any other object, and do not add a new element anywhere to balance the
+composition. Both areas become the continuation of the surfaces that surrounded them, and nothing more
+than that.
+Reconstruct each gap from its own neighbourhood. Where the person stood, rebuild the paving with the same
+slab size, the same joint width, the same joint direction and the same wear pattern as the paving on
+either side, and continue the carved stone band behind them so that its rhythm of figures and its depth of
+relief run straight through — no repeated motif, no mirrored patch, no smeared section. Where the bin
+stood, continue the step nosing and the plinth line at their existing heights. The light stays flat and
+overcast, so the reconstructed areas carry the same soft, almost directionless shading as their
+neighbours, with no new highlight and no new cast shadow.
+Match the surrounding rendering exactly: the same grain size and strength, the same micro-texture in the
+stone — pitting, lichen, old rain staining — the same sharpness for that distance from the camera, and the
+same colour and brightness. A patch that is smoother, cleaner or flatter than the stone around it is a
+failure even when nothing obvious is missing.
+Everything outside the two removed areas stays pixel-identical: the whole façade, the carving, the
+doorway, the steps, the sky along the top edge, the framing, the exposure, the white balance and the
+grain. Do not relight the wall, do not straighten the verticals and do not tidy anything else while you
+are in there.
+```
