@@ -49,7 +49,7 @@ PromptCraft ორივეს აგვარებს: სკილი, რო
 
 **Claude / Claude Code**
 ```bash
-git clone https://github.com/AvtandilMghebrishvili/promptcraft.git
+git clone https://github.com/REPLACE_ME/promptcraft.git
 cp -r promptcraft ~/.claude/skills/promptcraft
 ```
 შემდეგ სთხოვე: *„გამოიყენე promptcraft — მჭირდება Midjourney-ის პრომპტი თბილისური ღვინის ბარის ბრენდ-ფოტოსესიისთვის.“*
@@ -109,21 +109,12 @@ library/
 
 ## საიდან მოდის ეს
 
-PromptCraft სინთეზია და არა ორიგინალური გამოგონება. დიზაინი შეგნებულად სესხულობს:
+აქ ყველა პრომპტი ორიგინალურია — ნულიდან დაწერილი, ორ ენაზე. სფეროსგან ნასესხებია *მეთოდი*:
+როგორ უნდა იყოს სკილი აგებული, რომელი ტექნიკა უძლებს პრაქტიკას, რა უნდა ეწეროს კარგ ვიდეო-პრომპტში.
 
-| წყარო | რა ავიღეთ |
-|---|---|
-| [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) | სკილის ფორმა: ინსტრუმენტის ამოცნობა → განზრახვის ამოკრება → ფრეიმვორკის შერჩევა → ტოკენების აუდიტი. ანტი-პატერნების კატალოგი. |
-| [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | მოცულობა და ხელმისაწვდომობა. CSV-ექსპორტი markdown-ის გვერდით. დაბალბარიერიანი კონტრიბუცია. |
-| [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | ფრეიმვორკების საფუძველი — რა არის მტკიცებულებაზე დაფუძნებული და რა ფოლკლორი. |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | როგორ ინსტრუქტირდებიან რეალურად პროდაქშენ-აგენტები: არეალი, გაჩერების პირობა, ინსტრუმენტის კონტრაქტი. |
-| [geekjourneyx/awesome-ai-video-prompts](https://github.com/geekjourneyx/awesome-ai-video-prompts) | ვიდეოპრომპტის სტრუქტურა: კადრი → მოძრაობა → განათება → აუდიო, ინსტრუმენტების მიხედვით. |
-| [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | rules-ფაილების პატერნები აგენტური კოდირების ინსტრუმენტებისთვის. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ჰარნესის ფენა — rules vs. skills vs. agents vs. hooks — და ციკლი plan → test → implement → review → verify → remember → improve, ცალკეული პრომპტებით. |
-| [meigen.ai](https://www.meigen.ai/) | დაფარვის ხარვეზები: Nano Banana 2, Seedance 2.5 და უკუპრომპტინგი როგორც ცალკე ტექნიკა. |
-| [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | რას დებენ რეალურად სისტემურ პრომპტში საუკეთესო რეიტინგის მქონე custom GPT-ები. |
-
-აღრიცხულია [`sources.yml`](sources.yml)-ში და მოწმდება ყოველთვიურად — იხ. [`CHANGELOG.md`](CHANGELOG.md).
+პროექტები, რომლებმაც ეს გვასწავლეს, და სხვა კრებულები, რომლებიც ღირს ნახვად, აღრიცხულია
+[`CREDITS.md`](CREDITS.md)-ში. წყაროები მოწმდება ყოველთვიურად — იხ. [`sources.yml`](sources.yml)
+და [`CHANGELOG.md`](CHANGELOG.md).
 
 ## კონტრიბუცია
 

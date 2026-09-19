@@ -45,7 +45,7 @@ half is adapted, not translated (Problem 2).
 
 **Claude / Claude Code**
 ```bash
-git clone https://github.com/AvtandilMghebrishvili/promptcraft.git
+git clone https://github.com/REPLACE_ME/promptcraft.git
 cp -r promptcraft ~/.claude/skills/promptcraft
 ```
 Then ask: *"Use promptcraft — I need a prompt for Midjourney for a Tbilisi wine bar brand shoot."*
@@ -104,21 +104,13 @@ This is the part that took the most work, and the part most likely to be done ba
 
 ## Where this comes from
 
-PromptCraft is a synthesis, not an original invention. The design borrows deliberately:
+Every prompt here is original — written from scratch, in both languages. What this project
+borrowed from the field is *method*: how a skill should be structured, which techniques hold up,
+what a good video prompt contains.
 
-| Source | What we took |
-|---|---|
-| [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) | The skill shape: tool detection → intent extraction → framework routing → token audit. The anti-pattern catalogue. |
-| [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | Volume and accessibility. A CSV export alongside the markdown. Low-friction contribution. |
-| [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | Framework grounding — what is evidence-backed vs. what is folklore. |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | How production agents are actually instructed — scope, stop conditions, tool contracts. |
-| [geekjourneyx/awesome-ai-video-prompts](https://github.com/geekjourneyx/awesome-ai-video-prompts) | Video prompt structure: shot → movement → lighting → audio, per-tool guides. |
-| [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | Rules-file patterns for agentic coding tools. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The harness layer — rules vs. skills vs. agents vs. hooks — and the plan → test → implement → review → verify → remember → improve loop run as separate prompts. |
-| [meigen.ai](https://www.meigen.ai/) | Coverage gaps: Nano Banana 2, Seedance 2.5, and reverse prompting as a technique in its own right. |
-| [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | Extraction of what top-rated custom GPTs actually put in their system prompts. |
-
-Tracked in [`sources.yml`](sources.yml) and re-checked monthly — see [`CHANGELOG.md`](CHANGELOG.md).
+The projects that taught us those things, and other collections worth browsing, are credited in
+[`CREDITS.md`](CREDITS.md). Upstreams are re-checked monthly — see [`sources.yml`](sources.yml)
+and [`CHANGELOG.md`](CHANGELOG.md).
 
 ## Contributing
 

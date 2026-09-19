@@ -96,6 +96,17 @@ sources:
       technique coverage, not content.
     watch: model coverage, new prompt categories
 
+  - repo: ZeroLu/awesome-nanobanana-pro
+    url: https://github.com/ZeroLu/awesome-nanobanana-pro
+    category: image
+    took: >
+      Category coverage only. Its prompts were gathered from named creators on Twitter, WeChat
+      and Replicate and belong to those authors, so nothing was reproduced. We used its eleven
+      categories as a checklist and wrote our own bilingual entries for every one of them —
+      library/image/nano-banana.md went from 11 to 30 entries as a result. Linked, not copied,
+      in CREDITS.md.
+    watch: new categories, new model capabilities
+
   - repo: willwulfken/MidJourney-Styles-and-Keywords-Reference
     url: https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference
     category: image
